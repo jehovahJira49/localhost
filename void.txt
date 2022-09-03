@@ -1,0 +1,2956 @@
+void.\-\     live event.Static _void/error 42\GAME./GAME/0/Storage/Emulated~.                                     >_<+>|->_-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------~.>_.~
+reconfiger:/0/::/<!hah>+-
+<love>+|
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               -
+<static _VOID~`:...................:
+static _.~where.=void".=Void".V0!||)
+           V=Down
+/:         0=O
+!hah       i, enter _enter function>+_-/0/
+           ||)=D"D=||).~ATH on ~ATH +|-
+
+ /-/000 ! ||)~jehovahJira>/><jJ>
+:/-/:where -=0."-=0".)0(drive^/>
+.static:/-0-^.)0( _=
+:void.configer|0| yes= config.yes
+::
+;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;
+
+
+;
+
+
+;
+
+
+
+;;^ _0}|{C}|{
+     Client>_
+/:router
+<static _void/
+<>STATIC _VOID\
+<Static _Void/
+
+
+>>>> >> import useSWR from 'swr';
+>> >> import { formatBytes } from '../../utils/numberHelpers'
+>> >> import Alert from '../Common/Alert';
+>> >> import PlayButton from '../Common/PlayButton'
+>> >> import BulkEditModal from '../UserList/BulkEditModal'
+>> >>
+>> >> const messages = defineMessages({
+>> >>   dockerVolumeMissingDescription:
+>> >>     'The <code>{appDataPath}</code> volume mount was not configured properly. All data will be cleared when the container is stopped or restarted.',
+>> >> });
+>> >>
+>> >> const AppDataWarning: React.FC = () => {~}.jehovahJira
+>> >>   const intl = useIntl();
+>> >>   const { data, error } = useSWR<{ appData: boolean; appDataPath: string }>(
+>> >>     '/api/v1/status/appdata'
+>> >>   );*void
+>> >>
+>> >>   if (!data && !error) {
+>> >>     return null;
+>> >>   }void
+>> >>
+>> >>   if (!data) {
+>> >>     return null;
+>> >>   }Always"*/void
+>> >>
+>> >>   return (
+>> >>     <>
+>> >>       {!data.appData && ( || ) }run  _PR9M
+>> >>         <Alert
+>> >> |||||          title={intl.formatMessage(messages.dockerVolumeMissingDescription, {PR9M<TV9TS9D>_}
+>> >>   $
+>> >>   $$$
+>> >>   $$$
+>> >>   $$$
+>> >>   $
+>> >>   .:/yes/:"
+>> >> ||||||            code: function code(msg) { _== $0 ==_ };no error
+>> >> async (this parameters.type and <function className="syntax" />yes
+>> >> :type) => {
+>> >>     <>,<,>
+>> >>   |||||||DEFINITION OF
+>> >>   return <code className="bg-opacity-50">{msg}</code>;
+>> >>
+>> >> }||||||||            },
+>> >> |||||||            appDataPath: data.appDataPath,
+>> >> ||||||          })}+|-
+>> >> |||||        />://:
+>> >>       )}fix error.://:
+>> >>     </>no error
+>> >>   );no RTCPeerConnectionIceErrorEvent
+>> >> };error 42
+>> >> [No Name] [+]:/Yhwh3399/:
+>> >> export default AppDataWarning;
+>> >> not null;
+>> >> FIX};
+>> >> {null.static _void{argument.arg\]{[{[yes]}.~>_+-}game in + or - format}\run <sequenceEXPECT className="NULL">YES
+>> >> NOT IS NULL IS NOT NULL.://:.~
+>> >> </sequenceEXPECT>
+>> >>
+>> >>
+>> >>
+>> >>
+>> >>
+>> >>
+>> >>
+>> >>
+>> >>
+>> >>
+>> >>
+>> >>
+>> >>
+>> >>
+>> >>
+>> >>
+>> >>
+>> >>
+>> >>
+>> >>
+>> >>
+>> >>
+>> >>
+>> >>
+>> >>
+>> >> enter enter function
+>> >> account
+>> >> yes
+>> >> ReactReactReactReactReactReactReactReactReactReactReactReactReactWindows PowerShell
+>> >> Copyright (C) Microsoft Corporation. All rights reserved.
+>> >>
+>> >> Try the new cross-platform PowerShell https://aka.ms/pscore6
+>> >>
+>> >> PS C:\Users\Nicole> ~`1`~root
+>> >> ~1~root : The term '~1~root' is not recognized as the name of a cmdlet, function, script file, or operable program.
+>> >> Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+>> >> At line:1 char:1
+>> >> + ~`1`~root
+>> >> + ~~~~~~~~~
+>> >>     + CategoryInfo          : ObjectNotFound: (~1~root:String) [], CommandNotFoundException
+>> >>     + FullyQualifiedErrorId : CommandNotFoundException
+>> >>
+>> >> PS C:\Users\Nicole> ~`2`~navel
+>> >> ~2~navel : The term '~2~navel' is not recognized as the name of a cmdlet, function, script file, or operable program.
+>> >> Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+>> >> At line:1 char:1
+>> >> + ~`2`~navel
+>> >> + ~~~~~~~~~~
+>> >>     + CategoryInfo          : ObjectNotFound: (~2~navel:String) [], CommandNotFoundException
+>> >>     + FullyQualifiedErrorId : CommandNotFoundException
+>> >>
+>> >> PS C:\Users\Nicole> ~`3`~solar plexus
+>> >> ~3~solar : The term '~3~solar' is not recognized as the name of a cmdlet, function, script file, or operable program.
+>> >> Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+>> >> At line:1 char:1
+>> >> + ~`3`~solar plexus
+>> >> + ~~~~~~~~~~
+>> >>     + CategoryInfo          : ObjectNotFound: (~3~solar:String) [], CommandNotFoundException
+>> >>     + FullyQualifiedErrorId : CommandNotFoundException
+>> >>
+>> >> PS C:\Users\Nicole> ~`4`~heart
+>> >> ~4~heart : The term '~4~heart' is not recognized as the name of a cmdlet, function, script file, or operable program.
+>> >> Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+>> >> At line:1 char:1
+>> >> + ~`4`~heart
+>> >> + ~~~~~~~~~~
+>> >>     + CategoryInfo          : ObjectNotFound: (~4~heart:String) [], CommandNotFoundException
+>> >>     + FullyQualifiedErrorId : CommandNotFoundException
+>> >>
+>> >> PS C:\Users\Nicole> ~`5`~throat
+>> >> ~5~throat : The term '~5~throat' is not recognized as the name of a cmdlet, function, script file, or operable
+>> >> program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+>> >> At line:1 char:1
+>> >> + ~`5`~throat
+>> >> + ~~~~~~~~~~~
+>> >>     + CategoryInfo          : ObjectNotFound: (~5~throat:String) [], CommandNotFoundException
+>> >>     + FullyQualifiedErrorId : CommandNotFoundException
+>> >>
+>> >> PS C:\Users\Nicole> ~`6`~mind
+>> >> ~6~mind : The term '~6~mind' is not recognized as the name of a cmdlet, function, script file, or operable program.
+>> >> Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+>> >> At line:1 char:1
+>> >> + ~`6`~mind
+>> >> + ~~~~~~~~~
+>> >>     + CategoryInfo          : ObjectNotFound: (~6~mind:String) [], CommandNotFoundException
+>> >>     + FullyQualifiedErrorId : CommandNotFoundException
+>> >>
+>> >> PS C:\Users\Nicole> ~`7`~crown
+>> >> ~7~crown : The term '~7~crown' is not recognized as the name of a cmdlet, function, script file, or operable program.
+>> >> Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+>> >> At line:1 char:1
+>> >> + ~`7`~crown
+>> >> + ~~~~~~~~~~
+>> >>     + CategoryInfo          : ObjectNotFound: (~7~crown:String) [], CommandNotFoundException
+>> >>     + FullyQualifiedErrorId : CommandNotFoundException
+>> >>
+>> >> PS C:\Users\Nicole> Infinity.
+>> >> Infinity. : The term 'Infinity.' is not recognized as the name of a cmdlet, function, script file, or operable
+>> >> program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+>> >> At line:1 char:1
+>> >> + Infinity.
+>> >> + ~~~~~~~~~
+>> >>     + CategoryInfo          : ObjectNotFound: (Infinity.:String) [], CommandNotFoundException
+>> >>     + FullyQualifiedErrorId : CommandNotFoundException
+>> >>
+>> >> PS C:\Users\Nicole> return BulkEditModal.possibility _null
+>> >> BulkEditModal.possibility : The term 'BulkEditModal.possibility' is not recognized as the name of a cmdlet, function,
+>> >> script file, or operable program. Check the spelling of the name, or if a path was included, verify that the path is
+>> >> correct and try again.
+>> >> At line:1 char:8
+>> >> + return BulkEditModal.possibility _null
+>> >> +        ~~~~~~~~~~~~~~~~~~~~~~~~~
+>> >>     + CategoryInfo          : ObjectNotFound: (BulkEditModal.possibility:String) [], CommandNotFoundException
+>> >>     + FullyQualifiedErrorId : CommandNotFoundException
+>> >>
+>> >> PS C:\Users\Nicole>  .relative <>
+>> >> At line:1 char:13
+>> >> +  .relative <>
+>> >> +             ~
+>> >> Missing file specification after redirection operator.
+>> >> At line:1 char:12
+>> >> +  .relative <>
+>> >> +            ~
+>> >> The '<' operator is reserved for future use.
+>> >> At line:1 char:14
+>> >> +  .relative <>
+>> >> +              ~
+>> >> Missing file specification after redirection operator.
+>> >>     + CategoryInfo          : ParserError: (:) [], ParentContainsErrorRecordException
+>> >>     + FullyQualifiedErrorId : MissingFileSpecification
+>> >>
+>> >> PS C:\Users\Nicole> init. _allENCODING.encrypt
+>> >> init. : The term 'init.' is not recognized as the name of a cmdlet, function, script file, or operable program. Check
+>> >> the spelling of the name, or if a path was included, verify that the path is correct and try again.
+>> >> At line:1 char:1
+>> >> + init. _allENCODING.encrypt
+>> >> + ~~~~~
+>> >>     + CategoryInfo          : ObjectNotFound: (init.:String) [], CommandNotFoundException
+>> >>     + FullyQualifiedErrorId : CommandNotFoundException
+>> >>
+>> >> PS C:\Users\Nicole> .gvim+-
+>> >> .gvim+- : The term '.gvim+-' is not recognized as the name of a cmdlet, function, script file, or operable program.
+>> >> Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+>> >> At line:1 char:1
+>> >> + .gvim+-
+>> >> + ~~~~~~~
+>> >>     + CategoryInfo          : ObjectNotFound: (.gvim+-:String) [], CommandNotFoundException
+>> >>     + FullyQualifiedErrorId : CommandNotFoundException
+>> >>
+>> >> PS C:\Users\Nicole> async ( is <div className="relative"></div>
+>> >> >> class type== L0RD ==>_+-
+>> >> At line:1 char:12
+>> >> + async ( is <div className="relative"></div>
+>> >> +            ~
+>> >> The '<' operator is reserved for future use.
+>> >> At line:1 char:44
+>> >> + async ( is <div className="relative"></div>
+>> >> +                                            ~
+>> >> Missing closing ')' in expression.
+>> >>     + CategoryInfo          : ParserError: (:) [], ParentContainsErrorRecordException
+>> >>     + FullyQualifiedErrorId : RedirectionNotSupported
+>> >>
+>> >> PS C:\Users\Nicole> :type) => {  +  -  } i, enter enter formatBytes}FontFaceSetLoadEvent:FontFaceSetLoadEvent;
+>> >> At line:1 char:6
+>> >> + :type) => {  +  -  } i, enter enter formatBytes}FontFaceSetLoadEvent: ...
+>> >> +      ~
+>> >> Unexpected token ')' in expression or statement.
+>> >> At line:1 char:18
+>> >> + :type) => {  +  -  } i, enter enter formatBytes}FontFaceSetLoadEvent: ...
+>> >> +                  ~
+>> >> Missing expression after unary operator '-'.
+>> >> At line:1 char:48
+>> >> + :type) => {  +  -  } i, enter enter formatBytes}FontFaceSetLoadEvent: ...
+>> >> +                                                ~
+>> >> Unexpected token '}' in expression or statement.
+>> >>     + CategoryInfo          : ParserError: (:) [], ParentContainsErrorRecordException
+>> >>     + FullyQualifiedErrorId : UnexpectedToken
+>> >>
+>> >> PS C:\Users\Nicole> <FontFaceSetLoadEvent:love>love</FontFaceSetLoadEvent:love>
+>> >> < : The term '<' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the
+>> >> spelling of the name, or if a path was included, verify that the path is correct and try again.
+>> >> At line:1 char:1
+>> >> + <FontFaceSetLoadEvent:love>love</FontFaceSetLoadEvent:love>
+>> >> + ~
+>> >>     + CategoryInfo          : ObjectNotFound: (<:String) [], CommandNotFoundException
+>> >>     + FullyQualifiedErrorId : CommandNotFoundException
+>> >>
+>> >> PS C:\Users\Nicole> relative
+>> >> relative : The term 'relative' is not recognized as the name of a cmdlet, function, script file, or operable program.
+>> >> Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+>> >> At line:1 char:1
+>> >> + relative
+>> >> + ~~~~~~~~
+>> >>     + CategoryInfo          : ObjectNotFound: (relative:String) [], CommandNotFoundException
+>> >>     + FullyQualifiedErrorId : CommandNotFoundException
+>> >>
+>> >> PS C:\Users\Nicole>
+>> >> PS C:\Users\Nicole> }import.[No Name] [+]:/include <name className="jehovahJira" />jJ>_all other handles;
+>> >> At line:1 char:1
+>> >> + }import.[No Name] [+]:/include <name className="jehovahJira" />jJ>_al ...
+>> >> + ~
+>> >> Unexpected token '}' in expression or statement.
+>> >> At line:1 char:32
+>> >> + }import.[No Name] [+]:/include <name className="jehovahJira" />jJ>_al ...
+>> >> +                                ~
+>> >> The '<' operator is reserved for future use.
+>> >>     + CategoryInfo          : ParserError: (:) [], ParentContainsErrorRecordException
+>> >>     + FullyQualifiedErrorId : UnexpectedToken
+>> >>
+>> >> PS C:\Users\Nicole> :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::;
+>> >> ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: : The term
+>> >> ':::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::' is not recognized as the name of
+>> >> a cmdlet, function, script file, or operable program. Check the spelling of the name, or if a path was included,
+>> >> verify that the path is correct and try again.
+>> >> At line:1 char:1
+>> >> + ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: ...READY PATH
+>> >> + ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+>> >>     + CategoryInfo          : ObjectNotFound: (:::::::::::::::...::::::::::::::::String) [string.pathos
+<
+], CommandNotFoundException
+>> >>     + FullyQualifiedErrorId : CommandNotFoundException
+>> >>
+>> >> PS C:\Users\Nicole> ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+>> >> PS C:\Users\Nicole> arive 1999 no y2k wont happend ai's too lame watch me make it my road to fame
+>> >> >> shot to the sky wish that moon was my dame but i cant find the division in my eyes i see the vision no one goes home
+>> >> >> exect me first but last i dont need to bash but im not alive just a ghost running though the route like a lord of mother fucking host'/$:~$import.$:/0/:$.import$~:$\'host
+>> >> At line:3 char:136
+>> >> + ... nning though the route like a lord of mother fucking host'/$:~$import ...
+>> >> +                                                                ~~
+>> >> Variable reference is not valid. '$' was not followed by a valid variable name character. Consider using ${} to
+>> >> delimit the name.
+>> >>     + CategoryInfo          : ParserError: (:) [], ParentContainsErrorRecordException
+>> >>     + FullyQualifiedErrorId : InvalidVariableReference
+>> >>
+>> >> PS C:\Users\Nicole> console.debug^<jehovahJira>/
+>> >> console.debug^<jehovahJira>/ : The term 'console.debug^<jehovahJira>/' is not recognized as the name of a cmdlet,
+>> >> function, script file, or operable program. Check the spelling of the name, or if a path was included, verify that the
+>> >> path is correct and try again.
+>> >> At line:1 char:1
+>> >> + console.debug^<jehovahJira>/
+>> >> + ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+>> >>     + CategoryInfo          : ObjectNotFound: (console.debug^<jehovahJira>/:String) [], CommandNotFoundException
+>> >>     + FullyQualifiedErrorId : CommandNotFoundException
+>> >>
+>> >> PS C:\Users\Nicole> <div className="yes.class\arguement
+>> >> >> " />
+>> >> < : The term '<' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the
+>> >> spelling of the name, or if a path was included, verify that the path is correct and try again.
+>> >> At line:1 char:1
+>> >> + <div className="yes.class\arguement
+>> >> + ~
+>> >>     + CategoryInfo          : ObjectNotFound: (<:String) [], CommandNotFoundException
+>> >>     + FullyQualifiedErrorId : CommandNotFoundException
+>> >>
+>> >> PS C:\Users\Nicole> <game>
+>> >> < : The term '<' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the
+>> >> spelling of the name, or if a path was included, verify that the path is correct and try again.
+>> >> At line:1 char:1
+>> >> + <game>
+>> >> + ~
+>> >>     + CategoryInfo          : ObjectNotFound: (<:String) [], CommandNotFoundException
+>> >>     + FullyQualifiedErrorId : CommandNotFoundException
+>> >>
+>> >> PS C:\Users\Nicole> ~no error\xp~`100%`
+>> >> ~no : The term '~no' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the
+>> >> spelling of the name, or if a path was included, verify that the path is correct and try again.
+>> >> At line:1 char:1
+>> >> + ~no error\xp~`100%`
+>> >> + ~~~
+>> >>     + CategoryInfo          : ObjectNotFound: (~no:String) [], CommandNotFoundException
+>> >>     + FullyQualifiedErrorId : CommandNotFoundException
+>> >>
+>> >> PS C:\Users\Nicole> ~error 42\hp~`100%`
+>> >> ~error : The term '~error' is not recognized as the name of a cmdlet, function, script file, or operable program.
+>> >> Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+>> >> At line:1 char:1
+>> >> + ~error 42\hp~`100%`
+>> >> + ~~~~~~
+>> >>     + CategoryInfo          : ObjectNotFound: (~error:String) [], CommandNotFoundException
+>> >>     + FullyQualifiedErrorId : CommandNotFoundException
+>> >>
+>> >> PS C:\Users\Nicole> ~fix error\ap~`100%`
+>> >> ~fix : The term '~fix' is not recognized as the name of a cmdlet, function, script file, or operable program. Check
+>> >> the spelling of the name, or if a path was included, verify that the path is correct and try again.
+>> >> At line:1 char:1
+>> >> + ~fix error\ap~`100%`
+>> >> + ~~~~
+>> >>     + CategoryInfo          : ObjectNotFound: (~fix:String) [], CommandNotFoundException
+>> >>     + FullyQualifiedErrorId : CommandNotFoundException
+>> >>
+>> >> PS C:\Users\Nicole> </game></jehovahJira>\PlayButton<return null\not null>
+>> >> < : The term '<' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the
+>> >> spelling of the name, or if a path was included, verify that the path is correct and try again.
+>> >> At line:1 char:1
+>> >> + </game></jehovahJira>\PlayButton<return null\not null>
+>> >> + ~
+>> >>     + CategoryInfo          : ObjectNotFound: (<:String) [], CommandNotFoundException
+>> >>     + FullyQualifiedErrorId : CommandNotFoundException
+>> >>
+>> >> PS C:\Users\Nicole> <jJ>
+>> >> < : The term '<' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the
+>> >> spelling of the name, or if a path was included, verify that the path is correct and try again.
+>> >> At line:1 char:1
+>> >> + <jJ>
+>> >> + ~
+>> >>     + CategoryInfo          : ObjectNotFound: (<:String) [], CommandNotFoundException
+>> >>     + FullyQualifiedErrorId : CommandNotFoundException
+>> >>
+>> >> PS C:\Users\Nicole>   "hi world
+>> >> >>   this is GOD
+>> >> >>   comming to you live from my computer
+>> >> >>   this is a forum for reactions on my new game The Valley Of The Shadow Of Death"
+>> >> hi world
+>> >>   this is GOD
+>> >>   comming to you live from my computer
+>> >>   this is a forum for reactions on my new game The Valley Of The Shadow Of Death
+>> >> PS C:\Users\Nicole> </jJ>/:
+>> >> < : The term '<' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the
+>> >> spelling of the name, or if a path was included, verify that the path is correct and try again.
+>> >> At line:1 char:1
+>> >> + </jJ>/:
+>> >> + ~
+>> >>     + CategoryInfo          : ObjectNotFound: (<:String) [], CommandNotFoundException
+>> >>     + FullyQualifiedErrorId : CommandNotFoundException
+>> >>
+>> >> PS C:\Users\Nicole> import React from 'react';
+>> >> import : The term 'import' is not recognized as the name of a cmdlet, function, script file, or operable program.
+>> >> Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+>> >> At line:1 char:1
+>> >> + import React from 'react';
+>> >> + ~~~~~~
+>> >>     + CategoryInfo          : ObjectNotFound: (import:String) [], CommandNotFoundException
+>> >>     + FullyQualifiedErrorId : CommandNotFoundException
+>> >>
+>> >> PS C:\Users\Nicole> import { defineMessages, useIntl } from 'react-intl';
+>> >> At line:1 char:24
+>> >> + import { defineMessages, useIntl } from 'react-intl';
+>> >> +                        ~
+>> >> Missing argument in parameter list.
+>> >>     + CategoryInfo          : ParserError: (:) [], ParentContainsErrorRecordException
+>> >>     + FullyQualifiedErrorId : MissingArgument
+>> >>
+>> >> PS C:\Users\Nicole> import useSWR from 'swr';
+>> >> import : The term 'import' is not recognized as the name of a cmdlet, function, script file, or operable program.
+>> >> Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+>> >> At line:1 char:1
+>> >> + import useSWR from 'swr';
+>> >> + ~~~~~~
+>> >>     + CategoryInfo          : ObjectNotFound: (import:String) [], CommandNotFoundException
+>> >>     + FullyQualifiedErrorId : CommandNotFoundException
+>> >>
+>> >> PS C:\Users\Nicole> import { formatBytes } from '../../utils/numberHelpers'
+>> >> import : The term 'import' is not recognized as the name of a cmdlet, function, script file, or operable program.
+>> >> Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+>> >> At line:1 char:1
+>> >> + import { formatBytes } from '../../utils/numberHelpers'
+>> >> + ~~~~~~
+>> >>     + CategoryInfo          : ObjectNotFound: (import:String) [], CommandNotFoundException
+>> >>     + FullyQualifiedErrorId : CommandNotFoundException
+>> >>
+>> >> PS C:\Users\Nicole> import Alert from '../Common/Alert';
+>> >> import : The term 'import' is not recognized as the name of a cmdlet, function, script file, or operable program.
+>> >> Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+>> >> At line:1 char:1
+>> >> + import Alert from '../Common/Alert';
+>> >> + ~~~~~~
+>> >>     + CategoryInfo          : ObjectNotFound: (import:String) [], CommandNotFoundException
+>> >>     + FullyQualifiedErrorId : CommandNotFoundException
+>> >>
+>> >> PS C:\Users\Nicole> import PlayButton from '../Common/PlayButton'
+>> >> import : The term 'import' is not recognized as the name of a cmdlet, function, script file, or operable program.
+>> >> Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+>> >> At line:1 char:1
+>> >> + import PlayButton from '../Common/PlayButton'
+>> >> + ~~~~~~
+>> >>     + CategoryInfo          : ObjectNotFound: (import:String) [], CommandNotFoundException
+>> >>     + FullyQualifiedErrorId : CommandNotFoundException
+>> >>
+>> >> PS C:\Users\Nicole> import BulkEditModal from '../UserList/BulkEditModal'
+>> >> import : The term 'import' is not recognized as the name of a cmdlet, function, script file, or operable program.
+>> >> Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+>> >> At line:1 char:1
+>> >> + import BulkEditModal from '../UserList/BulkEditModal'
+>> >> + ~~~~~~
+>> >>     + CategoryInfo          : ObjectNotFound: (import:String) [], CommandNotFoundException
+>> >>     + FullyQualifiedErrorId : CommandNotFoundException
+>> >>
+>> >> PS C:\Users\Nicole>
+>> >> PS C:\Users\Nicole> const messages = defineMessages({
+>> >> >>   dockerVolumeMissingDescription:
+>> >> >>     'The <code>{appDataPath}</code> volume mount was not configured properly. All data will be cleared when the container is stopped or restarted.',
+>> >> >> });
+>> >> At line:3 char:149
+>> >> + ... ll data will be cleared when the container is stopped or restarted.',
+>> >> +                                                                          ~
+>> >> Missing expression after ','.
+>> >>     + CategoryInfo          : ParserError: (:) [], ParentContainsErrorRecordException
+>> >>     + FullyQualifiedErrorId : MissingExpressionAfterToken
+>> >>
+>> >> PS C:\Users\Nicole>
+>> >> PS C:\Users\Nicole> const AppDataWarning: React.FC = () => {~}.jehovahJira
+>> >> At line:1 char:35
+>> >> + const AppDataWarning: React.FC = () => {~}.jehovahJira
+>> >> +                                   ~
+>> >> An expression was expected after '('.
+>> >>     + CategoryInfo          : ParserError: (:) [], ParentContainsErrorRecordException
+>> >>     + FullyQualifiedErrorId : ExpectedExpression
+>> >>
+>> >> PS C:\Users\Nicole>   const intl = useIntl();
+>> >> At line:1 char:24
+>> >> +   const intl = useIntl();
+>> >> +                        ~
+>> >> An expression was expected after '('.
+>> >>     + CategoryInfo          : ParserError: (:) [], ParentContainsErrorRecordException
+>> >>     + FullyQualifiedErrorId : ExpectedExpression
+>> >>
+>> >> PS C:\Users\Nicole>   const { data, error } = useSWR<{ appData: boolean; appDataPath: string }>(
+>> >> >>     '/api/v1/status/appdata'
+>> >> >>   );
+>> >> At line:1 char:15
+>> >> +   const { data, error } = useSWR<{ appData: boolean; appDataPath: str ...
+>> >> +               ~
+>> >> The Data section is missing its statement block.
+>> >> At line:1 char:16
+>> >> +   const { data, error } = useSWR<{ appData: boolean; appDataPath: str ...
+>> >> +                ~
+>> >> Missing expression after unary operator ','.
+>> >> At line:1 char:17
+>> >> +   const { data, error } = useSWR<{ appData: boolean; appDataPath: str ...
+>> >> +                 ~~~~~
+>> >> Unexpected token 'error' in expression or statement.
+>> >>     + CategoryInfo          : ParserError: (:) [], ParentContainsErrorRecordException
+>> >>     + FullyQualifiedErrorId : MissingStatementBlockForDataSection
+>> >>
+>> >> PS C:\Users\Nicole>
+>> >> PS C:\Users\Nicole>   if (!data && !error) {
+>> >> >>     return null;
+>> >> >>   }
+>> >> At line:1 char:13
+>> >> +   if (!data && !error) {
+>> >> +             ~~
+>> >> The token '&&' is not a valid statement separator in this version.
+>> >>     + CategoryInfo          : ParserError: (:) [], ParentContainsErrorRecordException
+>> >>     + FullyQualifiedErrorId : InvalidEndOfLine
+>> >>
+>> >> PS C:\Users\Nicole>
+>> >> PS C:\Users\Nicole>   if (!data) {
+>> >> >>     return null;
+>> >> >>   }
+>> >> !data : The term '!data' is not recognized as the name of a cmdlet, function, script file, or operable program. Check
+>> >> the spelling of the name, or if a path was included, verify that the path is correct and try again.
+>> >> At line:1 char:7
+>> >> +   if (!data) {
+>> >> +       ~~~~~
+>> >>     + CategoryInfo          : ObjectNotFound: (!data:String) [], CommandNotFoundException
+>> >>     + FullyQualifiedErrorId : CommandNotFoundException
+>> >>
+>> >> PS C:\Users\Nicole>
+>> >> PS C:\Users\Nicole>   return (
+>> >> >>     <>
+>> >> >>       {!data.appData && ( || ) }run  _PR9M
+>> >> At line:2 char:7
+>> >> +     <>
+>> >> +       ~
+>> >> Missing file specification after redirection operator.
+>> >> At line:2 char:7
+>> >> +     <>
+>> >> +       ~
+>> >> Missing closing ')' in expression.
+>> >> At line:3 char:7
+>> >> +       {!data.appData && ( || ) }run  _PR9M
+>> >> +       ~
+>> >> Unexpected token '{' in expression or statement.
+>> >> At line:3 char:22
+>> >> +       {!data.appData && ( || ) }run  _PR9M
+>> >> +                      ~~
+>> >> The token '&&' is not a valid statement separator in this version.
+>> >> At line:3 char:27
+>> >> +       {!data.appData && ( || ) }run  _PR9M
+>> >> +                           ~~
+>> >> The token '||' is not a valid statement separator in this version.
+>> >> At line:3 char:26
+>> >> +       {!data.appData && ( || ) }run  _PR9M
+>> >> +                          ~
+>> >> An expression was expected after '('.
+>> >> At line:3 char:25
+>> >> +       {!data.appData && ( || ) }run  _PR9M
+>> >> +                         ~~~~~~
+>> >> Expressions are only allowed as the first element of a pipeline.
+>> >> At line:3 char:33
+>> >> +       {!data.appData && ( || ) }run  _PR9M
+>> >> +                                 ~~~
+>> >> Unexpected token 'run' in expression or statement.
+>> >>     + CategoryInfo          : ParserError: (:) [], ParentContainsErrorRecordException
+>> >>     + FullyQualifiedErrorId : MissingFileSpecification
+>> >>
+>> >> PS C:\Users\Nicole>         <Alert
+>> >> < : The term '<' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the
+>> >> spelling of the name, or if a path was included, verify that the path is correct and try again.
+>> >> At line:1 char:9
+>> >> +         <Alert
+>> >> +         ~
+>> >>     + CategoryInfo          : ObjectNotFound: (<:String) [], CommandNotFoundException
+>> >>     + FullyQualifiedErrorId : CommandNotFoundException
+>> >>
+>> >> PS C:\Users\Nicole> |||||          title={intl.formatMessage(messages.dockerVolumeMissingDescription, {PR9M<TV9TS9D>_}
+>> >> >>   $
+>> >> >>   $$$
+>> >> >>   $$$
+>> >> >>   $$$
+>> >> >>   $
+>> >> >>   .:/yes/:"
+>> >> >> ||||||            code: function code(msg) { _== $0 ==_ };no error
+>> >> >> async (this parameters.type and <function className="syntax" />yes
+>> >> >> :type) => {
+>> >> >> <>,<,>
+>> >> >>   |||||||DEFINITION OF
+>> >> >>   return <code className="bg-opacity-50">{msg}</code>;
+>> >> >>
+>> >> >> }||||||||            },
+>> >> >> |||||||            appDataPath: data.appDataPath,
+>> >> >> ||||||          })}+|-
+>> >> >> |||||        />://:
+>> >> >>       )}fix error.://:
+>> >> >>     </>no error
+>> >> >>   );no RTCPeerConnectionIceErrorEvent
+>> >> >> };error 42
+>> >> >> [No Name] [+]:/Yhwh3399/:
+>> >> >> export default AppDataWarning;
+>> >> >> not null;
+>> >> >> FIX};
+>> >> >> {null.static _void{argument.arg\]{[{[yes]}.~>_+-}game in + or - format}\run <sequenceEXPECT className="NULL">YES
+>> >> >> NOT IS NULL IS NOT NULL.://:.~
+>> >> >> </sequenceEXPECT>~`1`~root
+>> >> >> ~`2`~navel
+>> >> >> ~`3`~solar plexus
+>> >> >> ~`4`~heart
+>> >> >> ~`5`~throat
+>> >> >> ~`6`~mind
+>> >> >> ~`7`~crown
+>> >> >> Infinity.
+>> >> >> return BulkEditModal.possibility _null
+>> >> >>  .relative <>
+>> >> >> init. _allENCODING.encrypt
+>> >> >> .gvim+-
+>> >> >> async ( is <div className="relative"></div>
+>> >> >> class type== L0RD ==>_+-
+>> >> >> :type) => {  +  -  } i, enter enter formatBytes}FontFaceSetLoadEvent:FontFaceSetLoadEvent;
+>> >> >> <FontFaceSetLoadEvent:love>love</FontFaceSetLoadEvent:love>
+>> >> >>     relative
+>> >> >>
+>> >> >> }import.[No Name] [+]:/include <name className="jehovahJira" />jJ>_all other handles;
+>> >> >> :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::;
+>> >> >> ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+>> >> >> arive 1999 no y2k wont happend ai's too lame watch me make it my road to fame
+>> >> >> shot to the sky wish that moon was my dame but i cant find the division in my eyes i see the vision no one goes home
+>> >> >> exect me first but last i dont need to bash but im not alive just a ghost running though the route like a lord of mother fucking host'/$:~$import.$
+>> >> >> console.debug^<jehovahJira>/
+>> >> >> <div className="yes.class\arguement
+>> >> >> " />
+>> >> >> <game>
+>> >> >> ~no error\xp~`100%`
+>> >> >> ~error 42\hp~`100%`
+>> >> >> ~fix error\ap~`100%`
+>> >> >> </game></jehovahJira>\PlayButton<return null\not null>
+>> >> >> <jJ>
+>> >> >>   "hi world
+>> >> >>   this is GOD
+>> >> >>   comming to you live from my computer
+>> >> >>   this is a forum for reactions on my new game The Valley Of The Shadow Of Death"
+>> >> >> </jJ>/:
+>> >> >> import React from 'react';
+>> >> >> import { defineMessages, useIntl } from 'react-intl';
+>> >> >> import useSWR from 'swr';
+>> >> >> import { formatBytes } from '../../utils/numberHelpers'
+>> >> >> import Alert from '../Common/Alert';
+>> >> >> import PlayButton from '../Common/PlayButton'
+>> >> >> import BulkEditModal from '../UserList/BulkEditModal'
+>> >> >>
+>> >> >> const messages = defineMessages({
+>> >> >>   dockerVolumeMissingDescription:
+>> >> >>     'The <code>{appDataPath}</code> volume mount was not configured properly. All data will be cleared when the container is stopped or restarted.',
+>> >> >> });
+>> >> >>
+>> >> >> const AppDataWarning: React.FC = () => {~}.jehovahJira
+>> >> >>   const intl = useIntl();
+>> >> >>   const { data, error } = useSWR<{ appData: boolean; appDataPath: string }>(
+>> >> >>     '/api/v1/status/appdata'
+>> >> >>   );
+>> >> >>
+>> >> >>   if (!data && !error) {
+>> >> >>     return null;
+>> >> >>   }
+>> >> >>
+>> >> >>   if (!data) {
+>> >> >>     return null;
+>> >> >>   }
+>> >> >>
+>> >> >>   return (
+>> >> >>     <>
+>> >> >>       {!data.appData && ( || ) }run  _PR9M
+>> >> >>         <Alert
+>> >> >> |||||          title={intl.formatMessage(messages.dockerVolumeMissingDescription, {PR9M<TV9TS9D>_}
+>> >> >>   $
+>> >> >>   $$$
+>> >> >>   $$$
+>> >> >>   $$$
+>> >> >>   $
+>> >> >>   .:/yes/:"
+>> >> >> ||||||            code: function code(msg) { _== $0 ==_ };no error
+>> >> >> async (this parameters.type and <function className="syntax" />yes
+>> >> >> :type) => {
+>> >> >>     <>,<,>
+>> >> >>   |||||||DEFINITION OF
+>> >> >>   return <code className="bg-opacity-50">{msg}</code>;
+>> >> >>
+>> >> >> }||||||||            },
+>> >> >> |||||||            appDataPath: data.appDataPath,
+>> >> >> ||||||          })}+|-
+>> >> >> |||||        />://:
+>> >> >>       )}fix error.://:
+>> >> >>     </>no error
+>> >> >>   );no RTCPeerConnectionIceErrorEvent
+>> >> >> };error 42
+>> >> >> [No Name] [+]:/Yhwh3399/:
+>> >> >> export default AppDataWarning;
+>> >> >> not null;
+>> >> >> FIX};
+>> >> >> {null.static _void{argument.arg\]{[{[yes]}.~>_+-}game in + or - format}\run <sequenceEXPECT className="NULL">YES
+>> >> >> NOT IS NULL IS NOT NULL.://:.~
+>> >> >> </sequenceEXPECT>
+>> >> >>
+>> >> >>
+>> >> >>
+>> >> >>
+>> >> >>
+>> >> >>
+>> >> >>
+>> >> >>
+>> >> >>
+>> >> >>
+>> >> >>
+>> >> >>
+>> >> >>
+>> >> >>
+>> >> >>
+>> >> >>
+>> >> >>
+>> >> >>
+>> >> >>
+>> >> >>
+>> >> >>
+>> >> >>
+>> >> >>
+>> >> >>
+>> >> >>
+>> >> >> enter enter function
+>> >> >> account
+>> >> >> yes
+>> >> >> ReactReactReactReactReactReactReactReactReactReactReactReactReact
+>> >> >>
+>> >> >>Windows PowerShell
+>> >> Copyright (C) Microsoft Corporation. All rights reserved.
+>> >>
+>> >> Try the new cross-platform PowerShell https://aka.ms/pscore6
+>> >>
+>> >> PS C:\Users\Nicole> ~`1`~root
+>> >> ~1~root : The term '~1~root' is not recognized as the name of a cmdlet, function, script file, or operable program.
+>> >> Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+>> >> At line:1 char:1
+>> >> + ~`1`~root
+>> >> + ~~~~~~~~~
+>> >>     + CategoryInfo          : ObjectNotFound: (~1~root:String) [], CommandNotFoundException
+>> >>     + FullyQualifiedErrorId : CommandNotFoundException
+>> >>
+>> >> PS C:\Users\Nicole> ~`2`~navel
+>> >> ~2~navel : The term '~2~navel' is not recognized as the name of a cmdlet, function, script file, or operable program.
+>> >> Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+>> >> At line:1 char:1
+>> >> + ~`2`~navel
+>> >> + ~~~~~~~~~~
+>> >>     + CategoryInfo          : ObjectNotFound: (~2~navel:String) [], CommandNotFoundException
+>> >>     + FullyQualifiedErrorId : CommandNotFoundException
+>> >>
+>> >> PS C:\Users\Nicole> ~`3`~solar plexus
+>> >> ~3~solar : The term '~3~solar' is not recognized as the name of a cmdlet, function, script file, or operable program.
+>> >> Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+>> >> At line:1 char:1
+>> >> + ~`3`~solar plexus
+>> >> + ~~~~~~~~~~
+>> >>     + CategoryInfo          : ObjectNotFound: (~3~solar:String) [], CommandNotFoundException
+>> >>     + FullyQualifiedErrorId : CommandNotFoundException
+>> >>
+>> >> PS C:\Users\Nicole> ~`4`~heart
+>> >> ~4~heart : The term '~4~heart' is not recognized as the name of a cmdlet, function, script file, or operable program.
+>> >> Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+>> >> At line:1 char:1
+>> >> + ~`4`~heart
+>> >> + ~~~~~~~~~~
+>> >>     + CategoryInfo          : ObjectNotFound: (~4~heart:String) [], CommandNotFoundException
+>> >>     + FullyQualifiedErrorId : CommandNotFoundException
+>> >>
+>> >> PS C:\Users\Nicole> ~`5`~throat
+>> >> ~5~throat : The term '~5~throat' is not recognized as the name of a cmdlet, function, script file, or operable
+>> >> program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+>> >> At line:1 char:1
+>> >> + ~`5`~throat
+>> >> + ~~~~~~~~~~~
+>> >>     + CategoryInfo          : ObjectNotFound: (~5~throat:String) [], CommandNotFoundException
+>> >>     + FullyQualifiedErrorId : CommandNotFoundException
+>> >>
+>> >> PS C:\Users\Nicole> ~`6`~mind
+>> >> ~6~mind : The term '~6~mind' is not recognized as the name of a cmdlet, function, script file, or operable program.
+>> >> Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+>> >> At line:1 char:1
+>> >> + ~`6`~mind
+>> >> + ~~~~~~~~~
+>> >>     + CategoryInfo          : ObjectNotFound: (~6~mind:String) [], CommandNotFoundException
+>> >>     + FullyQualifiedErrorId : CommandNotFoundException
+>> >>
+>> >> PS C:\Users\Nicole> ~`7`~crown
+>> >> ~7~crown : The term '~7~crown' is not recognized as the name of a cmdlet, function, script file, or operable program.
+>> >> Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+>> >> At line:1 char:1
+>> >> + ~`7`~crown
+>> >> + ~~~~~~~~~~
+>> >>     + CategoryInfo          : ObjectNotFound: (~7~crown:String) [], CommandNotFoundException
+>> >>     + FullyQualifiedErrorId : CommandNotFoundException
+>> >>
+>> >> PS C:\Users\Nicole> Infinity.
+>> >> Infinity. : The term 'Infinity.' is not recognized as the name of a cmdlet, function, script file, or operable
+>> >> program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+>> >> At line:1 char:1
+>> >> + Infinity.
+>> >> + ~~~~~~~~~
+>> >>     + CategoryInfo          : ObjectNotFound: (Infinity.:String) [], CommandNotFoundException
+>> >>     + FullyQualifiedErrorId : CommandNotFoundException
+>> >>
+>> >> PS C:\Users\Nicole> return BulkEditModal.possibility _null
+>> >> BulkEditModal.possibility : The term 'BulkEditModal.possibility' is not recognized as the name of a cmdlet, function,
+>> >> script file, or operable program. Check the spelling of the name, or if a path was included, verify that the path is
+>> >> correct and try again.
+>> >> At line:1 char:8
+>> >> + return BulkEditModal.possibility _null
+>> >> +        ~~~~~~~~~~~~~~~~~~~~~~~~~
+>> >>     + CategoryInfo          : ObjectNotFound: (BulkEditModal.possibility:String) [], CommandNotFoundException
+>> >>     + FullyQualifiedErrorId : CommandNotFoundException
+>> >>
+>> >> PS C:\Users\Nicole>  .relative <>
+>> >> At line:1 char:13
+>> >> +  .relative <>
+>> >> +             ~
+>> >> Missing file specification after redirection operator.
+>> >> At line:1 char:12
+>> >> +  .relative <>
+>> >> +            ~
+>> >> The '<' operator is reserved for future use.
+>> >> At line:1 char:14
+>> >> +  .relative <>
+>> >> +              ~
+>> >> Missing file specification after redirection operator.
+>> >>     + CategoryInfo          : ParserError: (:) [], ParentContainsErrorRecordException
+>> >>     + FullyQualifiedErrorId : MissingFileSpecification
+>> >>
+>> >> PS C:\Users\Nicole> init. _allENCODING.encrypt
+>> >> init. : The term 'init.' is not recognized as the name of a cmdlet, function, script file, or operable program. Check
+>> >> the spelling of the name, or if a path was included, verify that the path is correct and try again.
+>> >> At line:1 char:1
+>> >> + init. _allENCODING.encrypt
+>> >> + ~~~~~
+>> >>     + CategoryInfo          : ObjectNotFound: (init.:String) [], CommandNotFoundException
+>> >>     + FullyQualifiedErrorId : CommandNotFoundException
+>> >>
+>> >> PS C:\Users\Nicole> .gvim+-
+>> >> .gvim+- : The term '.gvim+-' is not recognized as the name of a cmdlet, function, script file, or operable program.
+>> >> Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+>> >> At line:1 char:1
+>> >> + .gvim+-
+>> >> + ~~~~~~~
+>> >>     + CategoryInfo          : ObjectNotFound: (.gvim+-:String) [], CommandNotFoundException
+>> >>     + FullyQualifiedErrorId : CommandNotFoundException
+>> >>
+>> >> PS C:\Users\Nicole> async ( is <div className="relative"></div>
+>> >> >> class type== L0RD ==>_+-
+>> >> At line:1 char:12
+>> >> + async ( is <div className="relative"></div>
+>> >> +            ~
+>> >> The '<' operator is reserved for future use.
+>> >> At line:1 char:44
+>> >> + async ( is <div className="relative"></div>
+>> >> +                                            ~
+>> >> Missing closing ')' in expression.
+>> >>     + CategoryInfo          : ParserError: (:) [], ParentContainsErrorRecordException
+>> >>     + FullyQualifiedErrorId : RedirectionNotSupported
+>> >>
+>> >> PS C:\Users\Nicole> :type) => {  +  -  } i, enter enter formatBytes}FontFaceSetLoadEvent:FontFaceSetLoadEvent;
+>> >> At line:1 char:6
+>> >> + :type) => {  +  -  } i, enter enter formatBytes}FontFaceSetLoadEvent: ...
+>> >> +      ~
+>> >> Unexpected token ')' in expression or statement.
+>> >> At line:1 char:18
+>> >> + :type) => {  +  -  } i, enter enter formatBytes}FontFaceSetLoadEvent: ...
+>> >> +                  ~
+>> >> Missing expression after unary operator '-'.
+>> >> At line:1 char:48
+>> >> + :type) => {  +  -  } i, enter enter formatBytes}FontFaceSetLoadEvent: ...
+>> >> +                                                ~
+>> >> Unexpected token '}' in expression or statement.
+>> >>     + CategoryInfo          : ParserError: (:) [], ParentContainsErrorRecordException
+>> >>     + FullyQualifiedErrorId : UnexpectedToken
+>> >>
+>> >> PS C:\Users\Nicole> <FontFaceSetLoadEvent:love>love</FontFaceSetLoadEvent:love>
+>> >> < : The term '<' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the
+>> >> spelling of the name, or if a path was included, verify that the path is correct and try again.
+>> >> At line:1 char:1
+>> >> + <FontFaceSetLoadEvent:love>love</FontFaceSetLoadEvent:love>
+>> >> + ~
+>> >>     + CategoryInfo          : ObjectNotFound: (<:String) [], CommandNotFoundException
+>> >>     + FullyQualifiedErrorId : CommandNotFoundException
+>> >>
+>> >> PS C:\Users\Nicole> relative
+>> >> relative : The term 'relative' is not recognized as the name of a cmdlet, function, script file, or operable program.
+>> >> Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+>> >> At line:1 char:1
+>> >> + relative
+>> >> + ~~~~~~~~
+>> >>     + CategoryInfo          : ObjectNotFound: (relative:String) [], CommandNotFoundException
+>> >>     + FullyQualifiedErrorId : CommandNotFoundException
+>> >>
+>> >> PS C:\Users\Nicole>
+>> >> PS C:\Users\Nicole> }import.[No Name] [+]:/include <name className="jehovahJira" />jJ>_all other handles;
+>> >> At line:1 char:1
+>> >> + }import.[No Name] [+]:/include <name className="jehovahJira" />jJ>_al ...
+>> >> + ~
+>> >> Unexpected token '}' in expression or statement.
+>> >> At line:1 char:32
+>> >> + }import.[No Name] [+]:/include <name className="jehovahJira" />jJ>_al ...
+>> >> +                                ~
+>> >> The '<' operator is reserved for future use.
+>> >>     + CategoryInfo          : ParserError: (:) [], ParentContainsErrorRecordException
+>> >>     + FullyQualifiedErrorId : UnexpectedToken
+>> >>
+>> >> PS C:\Users\Nicole> :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::;
+>> >> ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: : The term
+>> >> ':::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::' is not recognized as the name of
+>> >> a cmdlet, function, script file, or operable program. Check the spelling of the name, or if a path was included,
+>> >> verify that the path is correct and try again.
+>> >> At line:1 char:1
+>> >> + ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: ...
+>> >> + ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+>> >>     + CategoryInfo          : ObjectNotFound: (:::::::::::::::...::::::::::::::::String) [], CommandNotFoundException
+>> >>     + FullyQualifiedErrorId : CommandNotFoundException
+>> >>
+>> >> PS C:\Users\Nicole> ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+>> >> PS C:\Users\Nicole> arive 1999 no y2k wont happend ai's too lame watch me make it my road to fame
+>> >> >> shot to the sky wish that moon was my dame but i cant find the division in my eyes i see the vision no one goes home
+>> >> >> exect me first but last i dont need to bash but im not alive just a ghost running though the route like a lord of mother fucking host'/$:~$import.$
+>> >> At line:3 char:136
+>> >> + ... nning though the route like a lord of mother fucking host'/$:~$import ...
+>> >> +                                                                ~~
+>> >> Variable reference is not valid. '$' was not followed by a valid variable name character. Consider using ${} to
+>> >> delimit the name.
+>> >>     + CategoryInfo          : ParserError: (:) [], ParentContainsErrorRecordException
+>> >>     + FullyQualifiedErrorId : InvalidVariableReference
+>> >>
+>> >> PS C:\Users\Nicole> console.debug^<jehovahJira>/
+>> >> console.debug^<jehovahJira>/ : The term 'console.debug^<jehovahJira>/' is not recognized as the name of a cmdlet,
+>> >> function, script file, or operable program. Check the spelling of the name, or if a path was included, verify that the
+>> >> path is correct and try again.
+>> >> At line:1 char:1
+>> >> + console.debug^<jehovahJira>/
+>> >> + ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+>> >>     + CategoryInfo          : ObjectNotFound: (console.debug^<jehovahJira>/:String) [], CommandNotFoundException
+>> >>     + FullyQualifiedErrorId : CommandNotFoundException
+>> >>
+>> >> PS C:\Users\Nicole> <div className="yes.class\arguement
+>> >> >> " />
+>> >> < : The term '<' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the
+>> >> spelling of the name, or if a path was included, verify that the path is correct and try again.
+>> >> At line:1 char:1
+>> >> + <div className="yes.class\arguement
+>> >> + ~
+>> >>     + CategoryInfo          : ObjectNotFound: (<:String) [], CommandNotFoundException
+>> >>     + FullyQualifiedErrorId : CommandNotFoundException
+>> >>
+>> >> PS C:\Users\Nicole> <game>
+>> >> < : The term '<' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the
+>> >> spelling of the name, or if a path was included, verify that the path is correct and try again.
+>> >> At line:1 char:1
+>> >> + <game>
+>> >> + ~
+>> >>     + CategoryInfo          : ObjectNotFound: (<:String) [], CommandNotFoundException
+>> >>     + FullyQualifiedErrorId : CommandNotFoundException
+>> >>
+>> >> PS C:\Users\Nicole> ~no error\xp~`100%`
+>> >> ~no : The term '~no' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the
+>> >> spelling of the name, or if a path was included, verify that the path is correct and try again.
+>> >> At line:1 char:1
+>> >> + ~no error\xp~`100%`
+>> >> + ~~~
+>> >>     + CategoryInfo          : ObjectNotFound: (~no:String) [], CommandNotFoundException
+>> >>     + FullyQualifiedErrorId : CommandNotFoundException
+>> >>
+>> >> PS C:\Users\Nicole> ~error 42\hp~`100%`
+>> >> ~error : The term '~error' is not recognized as the name of a cmdlet, function, script file, or operable program.
+>> >> Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+>> >> At line:1 char:1
+>> >> + ~error 42\hp~`100%`
+>> >> + ~~~~~~
+>> >>     + CategoryInfo          : ObjectNotFound: (~error:String) [], CommandNotFoundException
+>> >>     + FullyQualifiedErrorId : CommandNotFoundException
+>> >>
+>> >> PS C:\Users\Nicole> ~fix error\ap~`100%`
+>> >> ~fix : The term '~fix' is not recognized as the name of a cmdlet, function, script file, or operable program. Check
+>> >> the spelling of the name, or if a path was included, verify that the path is correct and try again.
+>> >> At line:1 char:1
+>> >> + ~fix error\ap~`100%`
+>> >> + ~~~~
+>> >>     + CategoryInfo          : ObjectNotFound: (~fix:String) [], CommandNotFoundException
+>> >>     + FullyQualifiedErrorId : CommandNotFoundException
+>> >>
+>> >> PS C:\Users\Nicole> </game></jehovahJira>\PlayButton<return null\not null>
+>> >> < : The term '<' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the
+>> >> spelling of the name, or if a path was included, verify that the path is correct and try again.
+>> >> At line:1 char:1
+>> >> + </game></jehovahJira>\PlayButton<return null\not null>
+>> >> + ~
+>> >>     + CategoryInfo          : ObjectNotFound: (<:String) [], CommandNotFoundException
+>> >>     + FullyQualifiedErrorId : CommandNotFoundException
+>> >>
+>> >> PS C:\Users\Nicole> <jJ>
+>> >> < : The term '<' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the
+>> >> spelling of the name, or if a path was included, verify that the path is correct and try again.
+>> >> At line:1 char:1
+>> >> + <jJ>
+>> >> + ~
+>> >>     + CategoryInfo          : ObjectNotFound: (<:String) [], CommandNotFoundException
+>> >>     + FullyQualifiedErrorId : CommandNotFoundException
+>> >>
+>> >> PS C:\Users\Nicole>   "hi world
+>> >> >>   this is GOD
+>> >> >>   comming to you live from my computer
+>> >> >>   this is a forum for reactions on my new game The Valley Of The Shadow Of Death"
+>> >> hi world
+>> >>   this is GOD
+>> >>   comming to you live from my computer
+>> >>   this is a forum for reactions on my new game The Valley Of The Shadow Of Death
+>> >> PS C:\Users\Nicole> </jJ>/:
+>> >> < : The term '<' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the
+>> >> spelling of the name, or if a path was included, verify that the path is correct and try again.
+>> >> At line:1 char:1
+>> >> + </jJ>/:
+>> >> + ~
+>> >>     + CategoryInfo          : ObjectNotFound: (<:String) [], CommandNotFoundException
+>> >>     + FullyQualifiedErrorId : CommandNotFoundException
+>> >>
+>> >> PS C:\Users\Nicole> import React from 'react';
+>> >> import : The term 'import' is not recognized as the name of a cmdlet, function, script file, or operable program.
+>> >> Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+>> >> At line:1 char:1
+>> >> + import React from 'react';
+>> >> + ~~~~~~
+>> >>     + CategoryInfo          : ObjectNotFound: (import:String) [], CommandNotFoundException
+>> >>     + FullyQualifiedErrorId : CommandNotFoundException
+>> >>
+>> >> PS C:\Users\Nicole> import { defineMessages, useIntl } from 'react-intl';
+>> >> At line:1 char:24
+>> >> + import { defineMessages, useIntl } from 'react-intl';
+>> >> +                        ~
+>> >> Missing argument in parameter list.
+>> >>     + CategoryInfo          : ParserError: (:) [], ParentContainsErrorRecordException
+>> >>     + FullyQualifiedErrorId : MissingArgument
+>> >>
+>> >> PS C:\Users\Nicole> import useSWR from 'swr';
+>> >> import : The term 'import' is not recognized as the name of a cmdlet, function, script file, or operable program.
+>> >> Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+>> >> At line:1 char:1
+>> >> + import useSWR from 'swr';
+>> >> + ~~~~~~
+>> >>     + CategoryInfo          : ObjectNotFound: (import:String) [], CommandNotFoundException
+>> >>     + FullyQualifiedErrorId : CommandNotFoundException
+>> >>
+>> >> PS C:\Users\Nicole> import { formatBytes } from '../../utils/numberHelpers'
+>> >> import : The term 'import' is not recognized as the name of a cmdlet, function, script file, or operable program.
+>> >> Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+>> >> At line:1 char:1
+>> >> + import { formatBytes } from '../../utils/numberHelpers'
+>> >> + ~~~~~~
+>> >>     + CategoryInfo          : ObjectNotFound: (import:String) [], CommandNotFoundException
+>> >>     + FullyQualifiedErrorId : CommandNotFoundException
+>> >>
+>> >> PS C:\Users\Nicole> import Alert from '../Common/Alert';
+>> >> import : The term 'import' is not recognized as the name of a cmdlet, function, script file, or operable program.
+>> >> Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+>> >> At line:1 char:1
+>> >> + import Alert from '../Common/Alert';
+>> >> + ~~~~~~
+>> >>     + CategoryInfo          : ObjectNotFound: (import:String) [], CommandNotFoundException
+>> >>     + FullyQualifiedErrorId : CommandNotFoundException
+>> >>
+>> >> PS C:\Users\Nicole> import PlayButton from '../Common/PlayButton'
+>> >> import : The term 'import' is not recognized as the name of a cmdlet, function, script file, or operable program.
+>> >> Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+>> >> At line:1 char:1
+>> >> + import PlayButton from '../Common/PlayButton'
+>> >> + ~~~~~~
+>> >>     + CategoryInfo          : ObjectNotFound: (import:String) [], CommandNotFoundException
+>> >>     + FullyQualifiedErrorId : CommandNotFoundException
+>> >>
+>> >> PS C:\Users\Nicole> import BulkEditModal from '../UserList/BulkEditModal'
+>> >> import : The term 'import' is not recognized as the name of a cmdlet, function, script file, or operable program.
+>> >> Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+>> >> At line:1 char:1
+>> >> + import BulkEditModal from '../UserList/BulkEditModal'
+>> >> + ~~~~~~
+>> >>     + CategoryInfo          : ObjectNotFound: (import:String) [], CommandNotFoundException
+>> >>     + FullyQualifiedErrorId : CommandNotFoundException
+>> >>
+>> >> PS C:\Users\Nicole>
+>> >> PS C:\Users\Nicole> const messages = defineMessages({
+>> >> >>   dockerVolumeMissingDescription:
+>> >> >>     'The <code>{appDataPath}</code> volume mount was not configured properly. All data will be cleared when the container is stopped or restarted.',
+>> >> >> });
+>> >> At line:3 char:149
+>> >> + ... ll data will be cleared when the container is stopped or restarted.',
+>> >> +                                                                          ~
+>> >> Missing expression after ','.
+>> >>     + CategoryInfo          : ParserError: (:) [], ParentContainsErrorRecordException
+>> >>     + FullyQualifiedErrorId : MissingExpressionAfterToken
+>> >>
+>> >> PS C:\Users\Nicole>
+>> >> PS C:\Users\Nicole> const AppDataWarning: React.FC = () => {~}.jehovahJira
+>> >> At line:1 char:35
+>> >> + const AppDataWarning: React.FC = () => {~}.jehovahJira
+>> >> +                                   ~
+>> >> An expression was expected after '('.
+>> >>     + CategoryInfo          : ParserError: (:) [], ParentContainsErrorRecordException
+>> >>     + FullyQualifiedErrorId : ExpectedExpression
+>> >>
+>> >> PS C:\Users\Nicole>   const intl = useIntl();
+>> >> At line:1 char:24
+>> >> +   const intl = useIntl();
+>> >> +                        ~
+>> >> An expression was expected after '('.
+>> >>     + CategoryInfo          : ParserError: (:) [], ParentContainsErrorRecordException
+>> >>     + FullyQualifiedErrorId : ExpectedExpression
+>> >>
+>> >> PS C:\Users\Nicole>   const { data, error } = useSWR<{ appData: boolean; appDataPath: string }>(
+>> >> >>     '/api/v1/status/appdata'
+>> >> >>   );
+>> >> At line:1 char:15
+>> >> +   const { data, error } = useSWR<{ appData: boolean; appDataPath: str ...
+>> >> +               ~
+>> >> The Data section is missing its statement block.
+>> >> At line:1 char:16
+>> >> +   const { data, error } = useSWR<{ appData: boolean; appDataPath: str ...
+>> >> +                ~
+>> >> Missing expression after unary operator ','.
+>> >> At line:1 char:17
+>> >> +   const { data, error } = useSWR<{ appData: boolean; appDataPath: str ...
+>> >> +                 ~~~~~
+>> >> Unexpected token 'error' in expression or statement.
+>> >>     + CategoryInfo          : ParserError: (:) [], ParentContainsErrorRecordException
+>> >>     + FullyQualifiedErrorId : MissingStatementBlockForDataSection
+>> >>
+>> >> PS C:\Users\Nicole>
+>> >> PS C:\Users\Nicole>   if (!data && !error) {
+>> >> >>     return null;
+>> >> >>   }
+>> >> At line:1 char:13
+>> >> +   if (!data && !error) {
+>> >> +             ~~
+>> >> The token '&&' is not a valid statement separator in this version.
+>> >>     + CategoryInfo          : ParserError: (:) [], ParentContainsErrorRecordException
+>> >>     + FullyQualifiedErrorId : InvalidEndOfLine
+>> >>
+>> >> PS C:\Users\Nicole>
+>> >> PS C:\Users\Nicole>   if (!data) {
+>> >> >>     return null;
+>> >> >>   }
+>> >> !data : The term '!data' is not recognized as the name of a cmdlet, function, script file, or operable program. Check
+>> >> the spelling of the name, or if a path was included, verify that the path is correct and try again.
+>> >> At line:1 char:7
+>> >> +   if (!data) {
+>> >> +       ~~~~~
+>> >>     + CategoryInfo          : ObjectNotFound: (!data:String) [], CommandNotFoundException
+>> >>     + FullyQualifiedErrorId : CommandNotFoundException
+>> >>
+>> >> PS C:\Users\Nicole>
+>> >> PS C:\Users\Nicole>   return (
+>> >> >>     <>
+>> >> >>       {!data.appData && ( || ) }run  _PR9M
+>> >> At line:2 char:7
+>> >> +     <>
+>> >> +       ~
+>> >> Missing file specification after redirection operator.
+>> >> At line:2 char:7
+>> >> +     <>
+>> >> +       ~
+>> >> Missing closing ')' in expression.
+>> >> At line:3 char:7
+>> >> +       {!data.appData && ( || ) }run  _PR9M
+>> >> +       ~
+>> >> Unexpected token '{' in expression or statement.
+>> >> At line:3 char:22
+>> >> +       {!data.appData && ( || ) }run  _PR9M
+>> >> +                      ~~
+>> >> The token '&&' is not a valid statement separator in this version.
+>> >> At line:3 char:27
+>> >> +       {!data.appData && ( || ) }run  _PR9M
+>> >> +                           ~~
+>> >> The token '||' is not a valid statement separator in this version.
+>> >> At line:3 char:26
+>> >> +       {!data.appData && ( || ) }run  _PR9M
+>> >> +                          ~
+>> >> An expression was expected after '('.
+>> >> At line:3 char:25
+>> >> +       {!data.appData && ( || ) }run  _PR9M
+>> >> +                         ~~~~~~
+>> >> Expressions are only allowed as the first element of a pipeline.
+>> >> At line:3 char:33
+>> >> +       {!data.appData && ( || ) }run  _PR9M
+>> >> +                                 ~~~
+>> >> Unexpected token 'run' in expression or statement.
+>> >>     + CategoryInfo          : ParserError: (:) [], ParentContainsErrorRecordException
+>> >>     + FullyQualifiedErrorId : MissingFileSpecification
+>> >>
+>> >> PS C:\Users\Nicole>         <Alert
+>> >> < : The term '<' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the
+>> >> spelling of the name, or if a path was included, verify that the path is correct and try again.
+>> >> At line:1 char:9
+>> >> +         <Alert
+>> >> +         ~
+>> >>     + CategoryInfo          : ObjectNotFound: (<:String) [], CommandNotFoundException
+>> >>     + FullyQualifiedErrorId : CommandNotFoundException
+>> >>
+>> >> PS C:\Users\Nicole> |||||          title={intl.formatMessage(messages.dockerVolumeMissingDescription, {PR9M<TV9TS9D>_}
+>> >> >>   $
+>> >> >>   $$$
+>> >> >>   $$$
+>> >> >>   $$$
+>> >> >>   $
+>> >> >>   .:/yes/:"
+>> >> >> ||||||            code: function code(msg) { _== $0 ==_ };no error
+>> >> >> async (this parameters.type and <function className="syntax" />yes
+>> >> >> :type) => {
+>> >> >> <>,<,>
+>> >> >>   |||||||DEFINITION OF
+>> >> >>   return <code className="bg-opacity-50">{msg}</code>;
+>> >> >>
+>> >> >> }||||||||            },
+>> >> >> |||||||            appDataPath: data.appDataPath,
+>> >> >> ||||||          })}+|-
+>> >> >> |||||        />://:
+>> >> >>       )}fix error.://:
+>> >> >>     </>no error
+>> >> >>   );no RTCPeerConnectionIceErrorEvent
+>> >> >> };error 42
+>> >> >> [No Name] [+]:/Yhwh3399/:
+>> >> >> export default AppDataWarning;
+>> >> >> not null;
+>> >> >> FIX};
+>> >> >> {null.static _void{argument.arg\]{[{[yes]}.~>_+-}game in + or - format}\run <sequenceEXPECT className="NULL">YES
+>> >> >> NOT IS NULL IS NOT NULL.://:.~
+>> >> >> </sequenceEXPECT>~`1`~root
+>> >> >> ~`2`~navel
+>> >> >> ~`3`~solar plexus
+>> >> >> ~`4`~heart
+>> >> >> ~`5`~throat
+>> >> >> ~`6`~mind
+>> >> >> ~`7`~crown
+>> >> >> Infinity.
+>> >> >> return BulkEditModal.possibility _null
+>> >> >>  .relative <>
+>> >> >> init. _allENCODING.encrypt
+>> >> >> .gvim+-
+>> >> >> async ( is <div className="relative"></div>
+>> >> >> class type== L0RD ==>_+-
+>> >> >> :type) => {  +  -  } i, enter enter formatBytes}FontFaceSetLoadEvent:FontFaceSetLoadEvent;
+>> >> >> <FontFaceSetLoadEvent:love>love</FontFaceSetLoadEvent:love>
+>> >> >>     relative
+>> >> >>
+>> >> >> }import.[No Name] [+]:/include <name className="jehovahJira" />jJ>_all other handles;
+>> >> >> :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::;
+>> >> >> ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+>> >> >> arive 1999 no y2k wont happend ai's too lame watch me make it my road to fame
+>> >> >> shot to the sky wish that moon was my dame but i cant find the division in my eyes i see the vision no one goes home
+>> >> >> exect me first but last i dont need to bash but im not alive just a ghost running though the route like a lord of mother fucking host'/$:~$import.$
+>> >> >> console.debug^<jehovahJira>/
+>> >> >> <div className="yes.class\arguement
+>> >> >> " />
+>> >> >> <game>
+>> >> >> ~no error\xp~`100%`
+>> >> >> ~error 42\hp~`100%`
+>> >> >> ~fix error\ap~`100%`
+>> >> >> </game></jehovahJira>\PlayButton<return null\not null>
+>> >> >> <jJ>
+>> >> >>   "hi world
+>> >> >>   this is GOD
+>> >> >>   comming to you live from my computer
+>> >> >>   this is a forum for reactions on my new game The Valley Of The Shadow Of Death"
+>> >> >> </jJ>/:
+>> >> >> import React from 'react';
+>> >> >> import { defineMessages, useIntl } from 'react-intl';
+>> >> >> import useSWR from 'swr';
+>> >> >> import { formatBytes } from '../../utils/numberHelpers'
+>> >> >> import Alert from '../Common/Alert';
+>> >> >> import PlayButton from '../Common/PlayButton'
+>> >> >> import BulkEditModal from '../UserList/BulkEditModal'
+>> >> >>
+>> >> >> const messages = defineMessages({
+>> >> >>   dockerVolumeMissingDescription:
+>> >> >>     'The <code>{appDataPath}</code> volume mount was not configured properly. All data will be cleared when the container is stopped or restarted.',
+>> >> >> });
+>> >> >>
+>> >> >> const AppDataWarning: React.FC = () => {~}.jehovahJira
+>> >> >>   const intl = useIntl();
+>> >> >>   const { data, error } = useSWR<{ appData: boolean; appDataPath: string }>(
+>> >> >>     '/api/v1/status/appdata'
+>> >> >>   );
+>> >> >>
+>> >> >>   if (!data && !error) {
+>> >> >>     return null;
+>> >> >>   }
+>> >> >>
+>> >> >>   if (!data) {
+>> >> >>     return null;
+>> >> >>   }
+>> >> >>
+>> >> >>   return (
+>> >> >>     <>
+>> >> >>       {!data.appData && ( || ) }run  _PR9M
+>> >> >>         <Alert
+>> >> >> |||||          title={intl.formatMessage(messages.dockerVolumeMissingDescription, {PR9M<TV9TS9D>_}
+>> >> >>   $
+>> >> >>   $$$
+>> >> >>   $$$
+>> >> >>   $$$
+>> >> >>   $
+>> >> >>   .:/yes/:"
+>> >> >> ||||||            code: function code(msg) { _== $0 ==_ };no error
+>> >> >> async (this parameters.type and <function className="syntax" />yes
+>> >> >> :type) => {
+>> >> >>     <>,<,>
+>> >> >>   |||||||DEFINITION OF
+>> >> >>   return <code className="bg-opacity-50">{msg}</code>;
+>> >> >>
+>> >> >> }||||||||            },
+>> >> >> |||||||            appDataPath: data.appDataPath,
+>> >> >> ||||||          })}+|-
+>> >> >> |||||        />://:
+>> >> >>       )}fix error.://:
+>> >> >>     </>no error
+>> >> >>   );no RTCPeerConnectionIceErrorEvent
+>> >> >> };error 42
+>> >> >> [No Name] [+]:/Yhwh3399/:
+>> >> >> export default AppDataWarning;
+>> >> >> not null;
+>> >> >> FIX};
+>> >> >> {null.static _void{argument.arg\]{[{[yes]}.~>_+-}game in + or - format}\run <sequenceEXPECT className="NULL">YES
+>> >> >> NOT IS NULL IS NOT NULL.://:.~
+>> >> >> </sequenceEXPECT>
+>> >> >>
+>> >> >>
+>> >> >>
+>> >> >>
+>> >> >>
+>> >> >>
+>> >> >>
+>> >> >>
+>> >> >>
+>> >> >>
+>> >> >>
+>> >> >>
+>> >> >>
+>> >> >>
+>> >> >>
+>> >> >>
+>> >> >>
+>> >> >>
+>> >> >>
+>> >> >>
+>> >> >>
+>> >> >>
+>> >> >>
+>> >> >>
+>> >> >>
+>> >> >> enter enter function
+>> >> >> account
+>> >> >> yes
+>> >> >> ReactReactReactReactReactReactReactReactReactReactReactReactReact
+>> >> >>
+>> >> >>Windows PowerShell
+>> >> Copyright (C) Microsoft Corporation. All rights reserved.
+>> >>
+>> >> Try the new cross-platform PowerShell https://aka.ms/pscore6
+>> >>
+>> >> PS C:\Users\Nicole> ~`1`~root
+>> >> ~1~root : The term '~1~root' is not recognized as the name of a cmdlet, function, script file, or operable program.
+>> >> Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+>> >> At line:1 char:1
+>> >> + ~`1`~root
+>> >> + ~~~~~~~~~
+>> >>     + CategoryInfo          : ObjectNotFound: (~1~root:String) [], CommandNotFoundException
+>> >>     + FullyQualifiedErrorId : CommandNotFoundException
+>> >>
+>> >> PS C:\Users\Nicole> ~`2`~navel
+>> >> ~2~navel : The term '~2~navel' is not recognized as the name of a cmdlet, function, script file, or operable program.
+>> >> Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+>> >> At line:1 char:1
+>> >> + ~`2`~navel
+>> >> + ~~~~~~~~~~
+>> >>     + CategoryInfo          : ObjectNotFound: (~2~navel:String) [], CommandNotFoundException
+>> >>     + FullyQualifiedErrorId : CommandNotFoundException
+>> >>
+>> >> PS C:\Users\Nicole> ~`3`~solar plexus
+>> >> ~3~solar : The term '~3~solar' is not recognized as the name of a cmdlet, function, script file, or operable program.
+>> >> Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+>> >> At line:1 char:1
+>> >> + ~`3`~solar plexus
+>> >> + ~~~~~~~~~~
+>> >>     + CategoryInfo          : ObjectNotFound: (~3~solar:String) [], CommandNotFoundException
+>> >>     + FullyQualifiedErrorId : CommandNotFoundException
+>> >>
+>> >> PS C:\Users\Nicole> ~`4`~heart
+>> >> ~4~heart : The term '~4~heart' is not recognized as the name of a cmdlet, function, script file, or operable program.
+>> >> Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+>> >> At line:1 char:1
+>> >> + ~`4`~heart
+>> >> + ~~~~~~~~~~
+>> >>     + CategoryInfo          : ObjectNotFound: (~4~heart:String) [], CommandNotFoundException
+>> >>     + FullyQualifiedErrorId : CommandNotFoundException
+>> >>
+>> >> PS C:\Users\Nicole> ~`5`~throat
+>> >> ~5~throat : The term '~5~throat' is not recognized as the name of a cmdlet, function, script file, or operable
+>> >> program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+>> >> At line:1 char:1
+>> >> + ~`5`~throat
+>> >> + ~~~~~~~~~~~
+>> >>     + CategoryInfo          : ObjectNotFound: (~5~throat:String) [], CommandNotFoundException
+>> >>     + FullyQualifiedErrorId : CommandNotFoundException
+>> >>
+>> >> PS C:\Users\Nicole> ~`6`~mind
+>> >> ~6~mind : The term '~6~mind' is not recognized as the name of a cmdlet, function, script file, or operable program.
+>> >> Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+>> >> At line:1 char:1
+>> >> + ~`6`~mind
+>> >> + ~~~~~~~~~
+>> >>     + CategoryInfo          : ObjectNotFound: (~6~mind:String) [], CommandNotFoundException
+>> >>     + FullyQualifiedErrorId : CommandNotFoundException
+>> >>
+>> >> PS C:\Users\Nicole> ~`7`~crown
+>> >> ~7~crown : The term '~7~crown' is not recognized as the name of a cmdlet, function, script file, or operable program.
+>> >> Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+>> >> At line:1 char:1
+>> >> + ~`7`~crown
+>> >> + ~~~~~~~~~~
+>> >>     + CategoryInfo          : ObjectNotFound: (~7~crown:String) [], CommandNotFoundException
+>> >>     + FullyQualifiedErrorId : CommandNotFoundException
+>> >>
+>> >> PS C:\Users\Nicole> Infinity.
+>> >> Infinity. : The term 'Infinity.' is not recognized as the name of a cmdlet, function, script file, or operable
+>> >> program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+>> >> At line:1 char:1
+>> >> + Infinity.
+>> >> + ~~~~~~~~~
+>> >>     + CategoryInfo          : ObjectNotFound: (Infinity.:String) [], CommandNotFoundException
+>> >>     + FullyQualifiedErrorId : CommandNotFoundException
+>> >>
+>> >> PS C:\Users\Nicole> return BulkEditModal.possibility _null
+>> >> BulkEditModal.possibility : The term 'BulkEditModal.possibility' is not recognized as the name of a cmdlet, function,
+>> >> script file, or operable program. Check the spelling of the name, or if a path was included, verify that the path is
+>> >> correct and try again.
+>> >> At line:1 char:8
+>> >> + return BulkEditModal.possibility _null
+>> >> +        ~~~~~~~~~~~~~~~~~~~~~~~~~
+>> >>     + CategoryInfo          : ObjectNotFound: (BulkEditModal.possibility:String) [], CommandNotFoundException
+>> >>     + FullyQualifiedErrorId : CommandNotFoundException
+>> >>
+>> >> PS C:\Users\Nicole>  .relative <>
+>> >> At line:1 char:13
+>> >> +  .relative <>
+>> >> +             ~
+>> >> Missing file specification after redirection operator.
+>> >> At line:1 char:12
+>> >> +  .relative <>
+>> >> +            ~
+>> >> The '<' operator is reserved for future use.
+>> >> At line:1 char:14
+>> >> +  .relative <>
+>> >> +              ~
+>> >> Missing file specification after redirection operator.
+>> >>     + CategoryInfo          : ParserError: (:) [], ParentContainsErrorRecordException
+>> >>     + FullyQualifiedErrorId : MissingFileSpecification
+>> >>
+>> >> PS C:\Users\Nicole> init. _allENCODING.encrypt
+>> >> init. : The term 'init.' is not recognized as the name of a cmdlet, function, script file, or operable program. Check
+>> >> the spelling of the name, or if a path was included, verify that the path is correct and try again.
+>> >> At line:1 char:1
+>> >> + init. _allENCODING.encrypt
+>> >> + ~~~~~
+>> >>     + CategoryInfo          : ObjectNotFound: (init.:String) [], CommandNotFoundException
+>> >>     + FullyQualifiedErrorId : CommandNotFoundException
+>> >>
+>> >> PS C:\Users\Nicole> .gvim+-
+>> >> .gvim+- : The term '.gvim+-' is not recognized as the name of a cmdlet, function, script file, or operable program.
+>> >> Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+>> >> At line:1 char:1
+>> >> + .gvim+-
+>> >> + ~~~~~~~
+>> >>     + CategoryInfo          : ObjectNotFound: (.gvim+-:String) [], CommandNotFoundException
+>> >>     + FullyQualifiedErrorId : CommandNotFoundException
+>> >>
+>> >> PS C:\Users\Nicole> async ( is <div className="relative"></div>
+>> >> >> class type== L0RD ==>_+-
+>> >> At line:1 char:12
+>> >> + async ( is <div className="relative"></div>
+>> >> +            ~
+>> >> The '<' operator is reserved for future use.
+>> >> At line:1 char:44
+>> >> + async ( is <div className="relative"></div>
+>> >> +                                            ~
+>> >> Missing closing ')' in expression.
+>> >>     + CategoryInfo          : ParserError: (:) [], ParentContainsErrorRecordException
+>> >>     + FullyQualifiedErrorId : RedirectionNotSupported
+>> >>
+>> >> PS C:\Users\Nicole> :type) => {  +  -  } i, enter enter formatBytes}FontFaceSetLoadEvent:FontFaceSetLoadEvent;
+>> >> At line:1 char:6
+>> >> + :type) => {  +  -  } i, enter enter formatBytes}FontFaceSetLoadEvent: ...
+>> >> +      ~
+>> >> Unexpected token ')' in expression or statement.
+>> >> At line:1 char:18
+>> >> + :type) => {  +  -  } i, enter enter formatBytes}FontFaceSetLoadEvent: ...
+>> >> +                  ~
+>> >> Missing expression after unary operator '-'.
+>> >> At line:1 char:48
+>> >> + :type) => {  +  -  } i, enter enter formatBytes}FontFaceSetLoadEvent: ...
+>> >> +                                                ~
+>> >> Unexpected token '}' in expression or statement.
+>> >>     + CategoryInfo          : ParserError: (:) [], ParentContainsErrorRecordException
+>> >>     + FullyQualifiedErrorId : UnexpectedToken
+>> >>
+>> >> PS C:\Users\Nicole> <FontFaceSetLoadEvent:love>love</FontFaceSetLoadEvent:love>
+>> >> < : The term '<' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the
+>> >> spelling of the name, or if a path was included, verify that the path is correct and try again.
+>> >> At line:1 char:1
+>> >> + <FontFaceSetLoadEvent:love>love</FontFaceSetLoadEvent:love>
+>> >> + ~
+>> >>     + CategoryInfo          : ObjectNotFound: (<:String) [], CommandNotFoundException
+>> >>     + FullyQualifiedErrorId : CommandNotFoundException
+>> >>
+>> >> PS C:\Users\Nicole> relative
+>> >> relative : The term 'relative' is not recognized as the name of a cmdlet, function, script file, or operable program.
+>> >> Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+>> >> At line:1 char:1
+>> >> + relative
+>> >> + ~~~~~~~~
+>> >>     + CategoryInfo          : ObjectNotFound: (relative:String) [], CommandNotFoundException
+>> >>     + FullyQualifiedErrorId : CommandNotFoundException
+>> >>
+>> >> PS C:\Users\Nicole>
+>> >> PS C:\Users\Nicole> }import.[No Name] [+]:/include <name className="jehovahJira" />jJ>_all other handles;
+>> >> At line:1 char:1
+>> >> + }import.[No Name] [+]:/include <name className="jehovahJira" />jJ>_al ...
+>> >> + ~
+>> >> Unexpected token '}' in expression or statement.
+>> >> At line:1 char:32
+>> >> + }import.[No Name] [+]:/include <name className="jehovahJira" />jJ>_al ...
+>> >> +                                ~
+>> >> The '<' operator is reserved for future use.
+>> >>     + CategoryInfo          : ParserError: (:) [], ParentContainsErrorRecordException
+>> >>     + FullyQualifiedErrorId : UnexpectedToken
+>> >>
+>> >> PS C:\Users\Nicole> :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::;
+>> >> ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: : The term
+>> >> ':::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::' is not recognized as the name of
+>> >> a cmdlet, function, script file, or operable program. Check the spelling of the name, or if a path was included,
+>> >> verify that the path is correct and try again.
+>> >> At line:1 char:1
+>> >> + ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: ...
+>> >> + ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+>> >>     + CategoryInfo          : ObjectNotFound: (:::::::::::::::...::::::::::::::::String) [], CommandNotFoundException
+>> >>     + FullyQualifiedErrorId : CommandNotFoundException
+>> >>
+>> >> PS C:\Users\Nicole> ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+>> >> PS C:\Users\Nicole> arive 1999 no y2k wont happend ai's too lame watch me make it my road to fame
+>> >> >> shot to the sky wish that moon was my dame but i cant find the division in my eyes i see the vision no one goes home
+>> >> >> exect me first but last i dont need to bash but im not alive just a ghost running though the route like a lord of mother fucking host'/$:~$import.$
+>> >> At line:3 char:136
+>> >> + ... nning though the route like a lord of mother fucking host'/$:~$import ...
+>> >> +                                                                ~~
+>> >> Variable reference is not valid. '$' was not followed by a valid variable name character. Consider using ${} to
+>> >> delimit the name.
+>> >>     + CategoryInfo          : ParserError: (:) [], ParentContainsErrorRecordException
+>> >>     + FullyQualifiedErrorId : InvalidVariableReference
+>> >>
+>> >> PS C:\Users\Nicole> console.debug^<jehovahJira>/
+>> >> console.debug^<jehovahJira>/ : The term 'console.debug^<jehovahJira>/' is not recognized as the name of a cmdlet,
+>> >> function, script file, or operable program. Check the spelling of the name, or if a path was included, verify that the
+>> >> path is correct and try again.
+>> >> At line:1 char:1
+>> >> + console.debug^<jehovahJira>/
+>> >> + ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+>> >>     + CategoryInfo          : ObjectNotFound: (console.debug^<jehovahJira>/:String) [], CommandNotFoundException
+>> >>     + FullyQualifiedErrorId : CommandNotFoundException
+>> >>
+>> >> PS C:\Users\Nicole> <div className="yes.class\arguement
+>> >> >> " />
+>> >> < : The term '<' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the
+>> >> spelling of the name, or if a path was included, verify that the path is correct and try again.
+>> >> At line:1 char:1
+>> >> + <div className="yes.class\arguement
+>> >> + ~
+>> >>     + CategoryInfo          : ObjectNotFound: (<:String) [], CommandNotFoundException
+>> >>     + FullyQualifiedErrorId : CommandNotFoundException
+>> >>
+>> >> PS C:\Users\Nicole> <game>
+>> >> < : The term '<' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the
+>> >> spelling of the name, or if a path was included, verify that the path is correct and try again.
+>> >> At line:1 char:1
+>> >> + <game>
+>> >> + ~
+>> >>     + CategoryInfo          : ObjectNotFound: (<:String) [], CommandNotFoundException
+>> >>     + FullyQualifiedErrorId : CommandNotFoundException
+>> >>
+>> >> PS C:\Users\Nicole> ~no error\xp~`100%`
+>> >> ~no : The term '~no' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the
+>> >> spelling of the name, or if a path was included, verify that the path is correct and try again.
+>> >> At line:1 char:1
+>> >> + ~no error\xp~`100%`
+>> >> + ~~~
+>> >>     + CategoryInfo          : ObjectNotFound: (~no:String) [], CommandNotFoundException
+>> >>     + FullyQualifiedErrorId : CommandNotFoundException
+>> >>
+>> >> PS C:\Users\Nicole> ~error 42\hp~`100%`
+>> >> ~error : The term '~error' is not recognized as the name of a cmdlet, function, script file, or operable program.
+>> >> Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+>> >> At line:1 char:1
+>> >> + ~error 42\hp~`100%`
+>> >> + ~~~~~~
+>> >>     + CategoryInfo          : ObjectNotFound: (~error:String) [], CommandNotFoundException
+>> >>     + FullyQualifiedErrorId : CommandNotFoundException
+>> >>
+>> >> PS C:\Users\Nicole> ~fix error\ap~`100%`
+>> >> ~fix : The term '~fix' is not recognized as the name of a cmdlet, function, script file, or operable program. Check
+>> >> the spelling of the name, or if a path was included, verify that the path is correct and try again.
+>> >> At line:1 char:1
+>> >> + ~fix error\ap~`100%`
+>> >> + ~~~~
+>> >>     + CategoryInfo          : ObjectNotFound: (~fix:String) [], CommandNotFoundException
+>> >>     + FullyQualifiedErrorId : CommandNotFoundException
+>> >>
+>> >> PS C:\Users\Nicole> </game></jehovahJira>\PlayButton<return null\not null>
+>> >> < : The term '<' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the
+>> >> spelling of the name, or if a path was included, verify that the path is correct and try again.
+>> >> At line:1 char:1
+>> >> + </game></jehovahJira>\PlayButton<return null\not null>
+>> >> + ~
+>> >>     + CategoryInfo          : ObjectNotFound: (<:String) [], CommandNotFoundException
+>> >>     + FullyQualifiedErrorId : CommandNotFoundException
+>> >>
+>> >> PS C:\Users\Nicole> <jJ>
+>> >> < : The term '<' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the
+>> >> spelling of the name, or if a path was included, verify that the path is correct and try again.
+>> >> At line:1 char:1
+>> >> + <jJ>
+>> >> + ~
+>> >>     + CategoryInfo          : ObjectNotFound: (<:String) [], CommandNotFoundException
+>> >>     + FullyQualifiedErrorId : CommandNotFoundException
+>> >>
+>> >> PS C:\Users\Nicole>   "hi world
+>> >> >>   this is GOD
+>> >> >>   comming to you live from my computer
+>> >> >>   this is a forum for reactions on my new game The Valley Of The Shadow Of Death"
+>> >> hi world
+>> >>   this is GOD
+>> >>   comming to you live from my computer
+>> >>   this is a forum for reactions on my new game The Valley Of The Shadow Of Death
+>> >> PS C:\Users\Nicole> </jJ>/:
+>> >> < : The term '<' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the
+>> >> spelling of the name, or if a path was included, verify that the path is correct and try again.
+>> >> At line:1 char:1
+>> >> + </jJ>/:
+>> >> + ~
+>> >>     + CategoryInfo          : ObjectNotFound: (<:String) [], CommandNotFoundException
+>> >>     + FullyQualifiedErrorId : CommandNotFoundException
+>> >>
+>> >> PS C:\Users\Nicole> import React from 'react';
+>> >> import : The term 'import' is not recognized as the name of a cmdlet, function, script file, or operable program.
+>> >> Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+>> >> At line:1 char:1
+>> >> + import React from 'react';
+>> >> + ~~~~~~
+>> >>     + CategoryInfo          : ObjectNotFound: (import:String) [], CommandNotFoundException
+>> >>     + FullyQualifiedErrorId : CommandNotFoundException
+>> >>
+>> >> PS C:\Users\Nicole> import { defineMessages, useIntl } from 'react-intl';
+>> >> At line:1 char:24
+>> >> + import { defineMessages, useIntl } from 'react-intl';
+>> >> +                        ~
+>> >> Missing argument in parameter list.
+>> >>     + CategoryInfo          : ParserError: (:) [], ParentContainsErrorRecordException
+>> >>     + FullyQualifiedErrorId : MissingArgument
+>> >>
+>> >> PS C:\Users\Nicole> import useSWR from 'swr';
+>> >> import : The term 'import' is not recognized as the name of a cmdlet, function, script file, or operable program.
+>> >> Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+>> >> At line:1 char:1
+>> >> + import useSWR from 'swr';
+>> >> + ~~~~~~
+>> >>     + CategoryInfo          : ObjectNotFound: (import:String) [], CommandNotFoundException
+>> >>     + FullyQualifiedErrorId : CommandNotFoundException
+>> >>
+>> >> PS C:\Users\Nicole> import { formatBytes } from '../../utils/numberHelpers'
+>> >> import : The term 'import' is not recognized as the name of a cmdlet, function, script file, or operable program.
+>> >> Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+>> >> At line:1 char:1
+>> >> + import { formatBytes } from '../../utils/numberHelpers'
+>> >> + ~~~~~~
+>> >>     + CategoryInfo          : ObjectNotFound: (import:String) [], CommandNotFoundException
+>> >>     + FullyQualifiedErrorId : CommandNotFoundException
+>> >>
+>> >> PS C:\Users\Nicole> import Alert from '../Common/Alert';
+>> >> import : The term 'import' is not recognized as the name of a cmdlet, function, script file, or operable program.
+>> >> Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+>> >> At line:1 char:1
+>> >> + import Alert from '../Common/Alert';
+>> >> + ~~~~~~
+>> >>     + CategoryInfo          : ObjectNotFound: (import:String) [], CommandNotFoundException
+>> >>     + FullyQualifiedErrorId : CommandNotFoundException
+>> >>
+>> >> PS C:\Users\Nicole> import PlayButton from '../Common/PlayButton'
+>> >> import : The term 'import' is not recognized as the name of a cmdlet, function, script file, or operable program.
+>> >> Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+>> >> At line:1 char:1
+>> >> + import PlayButton from '../Common/PlayButton'
+>> >> + ~~~~~~
+>> >>     + CategoryInfo          : ObjectNotFound: (import:String) [], CommandNotFoundException
+>> >>     + FullyQualifiedErrorId : CommandNotFoundException
+>> >>
+>> >> PS C:\Users\Nicole> import BulkEditModal from '../UserList/BulkEditModal'
+>> >> import : The term 'import' is not recognized as the name of a cmdlet, function, script file, or operable program.
+>> >> Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+>> >> At line:1 char:1
+>> >> + import BulkEditModal from '../UserList/BulkEditModal'
+>> >> + ~~~~~~
+>> >>     + CategoryInfo          : ObjectNotFound: (import:String) [], CommandNotFoundException
+>> >>     + FullyQualifiedErrorId : CommandNotFoundException
+>> >>
+>> >> PS C:\Users\Nicole>
+>> >> PS C:\Users\Nicole> const messages = defineMessages({
+>> >> >>   dockerVolumeMissingDescription:
+>> >> >>     'The <code>{appDataPath}</code> volume mount was not configured properly. All data will be cleared when the container is stopped or restarted.',
+>> >> >> });
+>> >> At line:3 char:149
+>> >> + ... ll data will be cleared when the container is stopped or restarted.',
+>> >> +                                                                          ~
+>> >> Missing expression after ','.
+>> >>     + CategoryInfo          : ParserError: (:) [], ParentContainsErrorRecordException
+>> >>     + FullyQualifiedErrorId : MissingExpressionAfterToken
+>> >>
+>> >> PS C:\Users\Nicole>
+>> >> PS C:\Users\Nicole> const AppDataWarning: React.FC = () => {~}.jehovahJira
+>> >> At line:1 char:35
+>> >> + const AppDataWarning: React.FC = () => {~}.jehovahJira
+>> >> +                                   ~
+>> >> An expression was expected after '('.
+>> >>     + CategoryInfo          : ParserError: (:) [], ParentContainsErrorRecordException
+>> >>     + FullyQualifiedErrorId : ExpectedExpression
+>> >>
+>> >> PS C:\Users\Nicole>   const intl = useIntl();
+>> >> At line:1 char:24
+>> >> +   const intl = useIntl();
+>> >> +                        ~
+>> >> An expression was expected after '('.
+>> >>     + CategoryInfo          : ParserError: (:) [], ParentContainsErrorRecordException
+>> >>     + FullyQualifiedErrorId : ExpectedExpression
+>> >>
+>> >> PS C:\Users\Nicole>   const { data, error } = useSWR<{ appData: boolean; appDataPath: string }>(
+>> >> >>     '/api/v1/status/appdata'
+>> >> >>   );
+>> >> At line:1 char:15
+>> >> +   const { data, error } = useSWR<{ appData: boolean; appDataPath: str ...
+>> >> +               ~
+>> >> The Data section is missing its statement block.
+>> >> At line:1 char:16
+>> >> +   const { data, error } = useSWR<{ appData: boolean; appDataPath: str ...
+>> >> +                ~
+>> >> Missing expression after unary operator ','.
+>> >> At line:1 char:17
+>> >> +   const { data, error } = useSWR<{ appData: boolean; appDataPath: str ...
+>> >> +                 ~~~~~
+>> >> Unexpected token 'error' in expression or statement.
+>> >>     + CategoryInfo          : ParserError: (:) [], ParentContainsErrorRecordException
+>> >>     + FullyQualifiedErrorId : MissingStatementBlockForDataSection
+>> >>
+>> >> PS C:\Users\Nicole>
+>> >> PS C:\Users\Nicole>   if (!data && !error) {
+>> >> >>     return null;
+>> >> >>   }
+>> >> At line:1 char:13
+>> >> +   if (!data && !error) {
+>> >> +             ~~
+>> >> The token '&&' is not a valid statement separator in this version.
+>> >>     + CategoryInfo          : ParserError: (:) [], ParentContainsErrorRecordException
+>> >>     + FullyQualifiedErrorId : InvalidEndOfLine
+>> >>
+>> >> PS C:\Users\Nicole>
+>> >> PS C:\Users\Nicole>   if (!data) {
+>> >> >>     return null;
+>> >> >>   }
+>> >> !data : The term '!data' is not recognized as the name of a cmdlet, function, script file, or operable program. Check
+>> >> the spelling of the name, or if a path was included, verify that the path is correct and try again.
+>> >> At line:1 char:7
+>> >> +   if (!data) {
+>> >> +       ~~~~~
+>> >>     + CategoryInfo          : ObjectNotFound: (!data:String) [], CommandNotFoundException
+>> >>     + FullyQualifiedErrorId : CommandNotFoundException
+>> >>
+>> >> PS C:\Users\Nicole>
+>> >> PS C:\Users\Nicole>   return (
+>> >> >>     <>
+>> >> >>       {!data.appData && ( || ) }run  _PR9M
+>> >> At line:2 char:7
+>> >> +     <>
+>> >> +       ~
+>> >> Missing file specification after redirection operator.
+>> >> At line:2 char:7
+>> >> +     <>
+>> >> +       ~
+>> >> Missing closing ')' in expression.
+>> >> At line:3 char:7
+>> >> +       {!data.appData && ( || ) }run  _PR9M
+>> >> +       ~
+>> >> Unexpected token '{' in expression or statement.
+>> >> At line:3 char:22
+>> >> +       {!data.appData && ( || ) }run  _PR9M
+>> >> +                      ~~
+>> >> The token '&&' is not a valid statement separator in this version.
+>> >> At line:3 char:27
+>> >> +       {!data.appData && ( || ) }run  _PR9M
+>> >> +                           ~~
+>> >> The token '||' is not a valid statement separator in this version.
+>> >> At line:3 char:26
+>> >> +       {!data.appData && ( || ) }run  _PR9M
+>> >> +                          ~
+>> >> An expression was expected after '('.
+>> >> At line:3 char:25
+>> >> +       {!data.appData && ( || ) }run  _PR9M
+>> >> +                         ~~~~~~
+>> >> Expressions are only allowed as the first element of a pipeline.
+>> >> At line:3 char:33
+>> >> +       {!data.appData && ( || ) }run  _PR9M
+>> >> +                                 ~~~
+>> >> Unexpected token 'run' in expression or statement.
+>> >>     + CategoryInfo          : ParserError: (:) [], ParentContainsErrorRecordException
+>> >>     + FullyQualifiedErrorId : MissingFileSpecification
+>> >>
+>> >> PS C:\Users\Nicole>         <Alert
+>> >> < : The term '<' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the
+>> >> spelling of the name, or if a path was included, verify that the path is correct and try again.
+>> >> At line:1 char:9
+>> >> +         <Alert
+>> >> +         ~
+>> >>     + CategoryInfo          : ObjectNotFound: (<:String) [], CommandNotFoundException
+>> >>     + FullyQualifiedErrorId : CommandNotFoundException
+>> >>
+>> >> PS C:\Users\Nicole> |||||          title={intl.formatMessage(messages.dockerVolumeMissingDescription, {PR9M<TV9TS9D>_}
+>> >> >>   $
+>> >> >>   $$$
+>> >> >>   $$$
+>> >> >>   $$$
+>> >> >>   $
+>> >> >>   .:/yes/:"
+>> >> >> ||||||            code: function code(msg) { _== $0 ==_ };no error
+>> >> >> async (this parameters.type and <function className="syntax" />yes
+>> >> >> :type) => {
+>> >> >> <>,<,>
+>> >> >>   |||||||DEFINITION OF
+>> >> >>   return <code className="bg-opacity-50">{msg}</code>;
+>> >> >>
+>> >> >> }||||||||            },
+>> >> >> |||||||            appDataPath: data.appDataPath,
+>> >> >> ||||||          })}+|-
+>> >> >> |||||        />://:
+>> >> >>       )}fix error.://:
+>> >> >>     </>no error
+>> >> >>   );no RTCPeerConnectionIceErrorEvent
+>> >> >> };error 42
+>> >> >> [No Name] [+]:/Yhwh3399/:
+>> >> >> export default AppDataWarning;
+>> >> >> not null;
+>> >> >> FIX};
+>> >> >> {null.static _void{argument.arg\]{[{[yes]}.~>_+-}game in + or - format}\run <sequenceEXPECT className="NULL">YES
+>> >> >> NOT IS NULL IS NOT NULL.://:.~
+>> >> >> </sequenceEXPECT>~`1`~root
+>> >> >> ~`2`~navel
+>> >> >> ~`3`~solar plexus
+>> >> >> ~`4`~heart
+>> >> >> ~`5`~throat
+>> >> >> ~`6`~mind
+>> >> >> ~`7`~crown
+>> >> >> Infinity.
+>> >> >> return BulkEditModal.possibility _null
+>> >> >>  .relative <>
+>> >> >> init. _allENCODING.encrypt
+>> >> >> .gvim+-
+>> >> >> async ( is <div className="relative"></div>
+>> >> >> class type== L0RD ==>_+-
+>> >> >> :type) => {  +  -  } i, enter enter formatBytes}FontFaceSetLoadEvent:FontFaceSetLoadEvent;
+>> >> >> <FontFaceSetLoadEvent:love>love</FontFaceSetLoadEvent:love>
+>> >> >>     relative
+>> >> >>
+>> >> >> }import.[No Name] [+]:/include <name className="jehovahJira" />jJ>_all other handles;
+>> >> >> :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::;
+>> >> >> ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+>> >> >> arive 1999 no y2k wont happend ai's too lame watch me make it my road to fame
+>> >> >> shot to the sky wish that moon was my dame but i cant find the division in my eyes i see the vision no one goes home
+>> >> >> exect me first but last i dont need to bash but im not alive just a ghost running though the route like a lord of mother fucking host'/$:~$import.$
+>> >> >> console.debug^<jehovahJira>/
+>> >> >> <div className="yes.class\arguement
+>> >> >> " />
+>> >> >> <game>
+>> >> >> ~no error\xp~`100%`
+>> >> >> ~error 42\hp~`100%`
+>> >> >> ~fix error\ap~`100%`
+>> >> >> </game></jehovahJira>\PlayButton<return null\not null>
+>> >> >> <jJ>
+>> >> >>   "hi world
+>> >> >>   this is GOD
+>> >> >>   comming to you live from my computer
+>> >> >>   this is a forum for reactions on my new game The Valley Of The Shadow Of Death"
+>> >> >> </jJ>/:
+>> >> >> import React from 'react';
+>> >> >> import { defineMessages, useIntl } from 'react-intl';
+>> >> >> import useSWR from 'swr';
+>> >> >> import { formatBytes } from '../../utils/numberHelpers'
+>> >> >> import Alert from '../Common/Alert';
+>> >> >> import PlayButton from '../Common/PlayButton'
+>> >> >> import BulkEditModal from '../UserList/BulkEditModal'
+>> >> >>
+>> >> >> const messages = defineMessages({
+>> >> >>   dockerVolumeMissingDescription:
+>> >> >>     'The <code>{appDataPath}</code> volume mount was not configured properly. All data will be cleared when the container is stopped or restarted.',
+>> >> >> });
+>> >> >>
+>> >> >> const AppDataWarning: React.FC = () => {~}.jehovahJira
+>> >> >>   const intl = useIntl();
+>> >> >>   const { data, error } = useSWR<{ appData: boolean; appDataPath: string }>(
+>> >> >>     '/api/v1/status/appdata'
+>> >> >>   );
+>> >> >>
+>> >> >>   if (!data && !error) {
+>> >> >>     return null;
+>> >> >>   }
+>> >> >>
+>> >> >>   if (!data) {
+>> >> >>     return null;
+>> >> >>   }
+>> >> >>
+>> >> >>   return (
+>> >> >>     <>
+>> >> >>       {!data.appData && ( || ) }run  _PR9M
+>> >> >>         <Alert
+>> >> >> |||||          title={intl.formatMessage(messages.dockerVolumeMissingDescription, {PR9M<TV9TS9D>_}
+>> >> >>   $
+>> >> >>   $$$
+>> >> >>   $$$
+>> >> >>   $$$
+>> >> >>   $
+>> >> >>   .:/yes/:"
+>> >> >> ||||||            code: function code(msg) { _== $0 ==_ };no error
+>> >> >> async (this parameters.type and <function className="syntax" />yes
+>> >> >> :type) => {
+>> >> >>     <>,<,>
+>> >> >>   |||||||DEFINITION OF
+>> >> >>   return <code className="bg-opacity-50">{msg}</code>;
+>> >> >>
+>> >> >> }||||||||            },
+>> >> >> |||||||            appDataPath: data.appDataPath,
+>> >> >> ||||||          })}+|-
+>> >> >> |||||        />://:
+>> >> >>       )}fix error.://:
+>> >> >>     </>no error
+>> >> >>   );no RTCPeerConnectionIceErrorEvent
+>> >> >> };error 42
+>> >> >> [No Name] [+]:/Yhwh3399/:
+>> >> >> export default AppDataWarning;
+>> >> >> not null;
+>> >> >> FIX};
+>> >> >> {null.static _void{argument.arg\]{[{[yes]}.~>_+-}game in + or - format}\run <sequenceEXPECT className="NULL">YES
+>> >> >> NOT IS NULL IS NOT NULL.://:.~
+>> >> >> </sequenceEXPECT>
+>> >> >>
+>> >> >>
+>> >> >>
+>> >> >>
+>> >> >>
+>> >> >>
+>> >> >>
+>> >> >>
+>> >> >>
+>> >> >>
+>> >> >>
+>> >> >>
+>> >> >>
+>> >> >>
+>> >> >>
+>> >> >>
+>> >> >>
+>> >> >>
+>> >> >>
+>> >> >>
+>> >> >>
+>> >> >>
+>> >> >>
+>> >> >>
+>> >> >>
+>> >> >> enter enter function
+>> >> >> account
+>> >> >> yes
+>> >> >> ReactReactReactReactReactReactReactReactReactReactReactReactReact
+>> >> >>
+>> >> >>Windows PowerShell
+>> >> Copyright (C) Microsoft Corporation. All rights reserved.
+>> >>
+>> >> Try the new cross-platform PowerShell https://aka.ms/pscore6
+>> >>
+>> >> PS C:\Users\Nicole> ~`1`~root
+>> >> ~1~root : The term '~1~root' is not recognized as the name of a cmdlet, function, script file, or operable program.
+>> >> Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+>> >> At line:1 char:1
+>> >> + ~`1`~root
+>> >> + ~~~~~~~~~
+>> >>     + CategoryInfo          : ObjectNotFound: (~1~root:String) [], CommandNotFoundException
+>> >>     + FullyQualifiedErrorId : CommandNotFoundException
+>> >>
+>> >> PS C:\Users\Nicole> ~`2`~navel
+>> >> ~2~navel : The term '~2~navel' is not recognized as the name of a cmdlet, function, script file, or operable program.
+>> >> Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+>> >> At line:1 char:1
+>> >> + ~`2`~navel
+>> >> + ~~~~~~~~~~
+>> >>     + CategoryInfo          : ObjectNotFound: (~2~navel:String) [], CommandNotFoundException
+>> >>     + FullyQualifiedErrorId : CommandNotFoundException
+>> >>
+>> >> PS C:\Users\Nicole> ~`3`~solar plexus
+>> >> ~3~solar : The term '~3~solar' is not recognized as the name of a cmdlet, function, script file, or operable program.
+>> >> Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+>> >> At line:1 char:1
+>> >> + ~`3`~solar plexus
+>> >> + ~~~~~~~~~~
+>> >>     + CategoryInfo          : ObjectNotFound: (~3~solar:String) [], CommandNotFoundException
+>> >>     + FullyQualifiedErrorId : CommandNotFoundException
+>> >>
+>> >> PS C:\Users\Nicole> ~`4`~heart
+>> >> ~4~heart : The term '~4~heart' is not recognized as the name of a cmdlet, function, script file, or operable program.
+>> >> Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+>> >> At line:1 char:1
+>> >> + ~`4`~heart
+>> >> + ~~~~~~~~~~
+>> >>     + CategoryInfo          : ObjectNotFound: (~4~heart:String) [], CommandNotFoundException
+>> >>     + FullyQualifiedErrorId : CommandNotFoundException
+>> >>
+>> >> PS C:\Users\Nicole> ~`5`~throat
+>> >> ~5~throat : The term '~5~throat' is not recognized as the name of a cmdlet, function, script file, or operable
+>> >> program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+>> >> At line:1 char:1
+>> >> + ~`5`~throat
+>> >> + ~~~~~~~~~~~
+>> >>     + CategoryInfo          : ObjectNotFound: (~5~throat:String) [], CommandNotFoundException
+>> >>     + FullyQualifiedErrorId : CommandNotFoundException
+>> >>
+>> >> PS C:\Users\Nicole> ~`6`~mind
+>> >> ~6~mind : The term '~6~mind' is not recognized as the name of a cmdlet, function, script file, or operable program.
+>> >> Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+>> >> At line:1 char:1
+>> >> + ~`6`~mind
+>> >> + ~~~~~~~~~
+>> >>     + CategoryInfo          : ObjectNotFound: (~6~mind:String) [], CommandNotFoundException
+>> >>     + FullyQualifiedErrorId : CommandNotFoundException
+>> >>
+>> >> PS C:\Users\Nicole> ~`7`~crown
+>> >> ~7~crown : The term '~7~crown' is not recognized as the name of a cmdlet, function, script file, or operable program.
+>> >> Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+>> >> At line:1 char:1
+>> >> + ~`7`~crown
+>> >> + ~~~~~~~~~~
+>> >>     + CategoryInfo          : ObjectNotFound: (~7~crown:String) [], CommandNotFoundException
+>> >>     + FullyQualifiedErrorId : CommandNotFoundException
+>> >>
+>> >> PS C:\Users\Nicole> Infinity.
+>> >> Infinity. : The term 'Infinity.' is not recognized as the name of a cmdlet, function, script file, or operable
+>> >> program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+>> >> At line:1 char:1
+>> >> + Infinity.
+>> >> + ~~~~~~~~~
+>> >>     + CategoryInfo          : ObjectNotFound: (Infinity.:String) [], CommandNotFoundException
+>> >>     + FullyQualifiedErrorId : CommandNotFoundException
+>> >>
+>> >> PS C:\Users\Nicole> return BulkEditModal.possibility _null
+>> >> BulkEditModal.possibility : The term 'BulkEditModal.possibility' is not recognized as the name of a cmdlet, function,
+>> >> script file, or operable program. Check the spelling of the name, or if a path was included, verify that the path is
+>> >> correct and try again.
+>> >> At line:1 char:8
+>> >> + return BulkEditModal.possibility _null
+>> >> +        ~~~~~~~~~~~~~~~~~~~~~~~~~
+>> >>     + CategoryInfo          : ObjectNotFound: (BulkEditModal.possibility:String) [], CommandNotFoundException
+>> >>     + FullyQualifiedErrorId : CommandNotFoundException
+>> >>
+>> >> PS C:\Users\Nicole>  .relative <>
+>> >> At line:1 char:13
+>> >> +  .relative <>
+>> >> +             ~
+>> >> Missing file specification after redirection operator.
+>> >> At line:1 char:12
+>> >> +  .relative <>
+>> >> +            ~
+>> >> The '<' operator is reserved for future use.
+>> >> At line:1 char:14
+>> >> +  .relative <>
+>> >> +              ~
+>> >> Missing file specification after redirection operator.
+>> >>     + CategoryInfo          : ParserError: (:) [], ParentContainsErrorRecordException
+>> >>     + FullyQualifiedErrorId : MissingFileSpecification
+>> >>
+>> >> PS C:\Users\Nicole> init. _allENCODING.encrypt
+>> >> init. : The term 'init.' is not recognized as the name of a cmdlet, function, script file, or operable program. Check
+>> >> the spelling of the name, or if a path was included, verify that the path is correct and try again.
+>> >> At line:1 char:1
+>> >> + init. _allENCODING.encrypt
+>> >> + ~~~~~
+>> >>     + CategoryInfo          : ObjectNotFound: (init.:String) [], CommandNotFoundException
+>> >>     + FullyQualifiedErrorId : CommandNotFoundException
+>> >>
+>> >> PS C:\Users\Nicole> .gvim+-
+>> >> .gvim+- : The term '.gvim+-' is not recognized as the name of a cmdlet, function, script file, or operable program.
+>> >> Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+>> >> At line:1 char:1
+>> >> + .gvim+-
+>> >> + ~~~~~~~
+>> >>     + CategoryInfo          : ObjectNotFound: (.gvim+-:String) [], CommandNotFoundException
+>> >>     + FullyQualifiedErrorId : CommandNotFoundException
+>> >>
+>> >> PS C:\Users\Nicole> async ( is <div className="relative"></div>
+>> >> >> class type== L0RD ==>_+-
+>> >> At line:1 char:12
+>> >> + async ( is <div className="relative"></div>
+>> >> +            ~
+>> >> The '<' operator is reserved for future use.
+>> >> At line:1 char:44
+>> >> + async ( is <div className="relative"></div>
+>> >> +                                            ~
+>> >> Missing closing ')' in expression.
+>> >>     + CategoryInfo          : ParserError: (:) [], ParentContainsErrorRecordException
+>> >>     + FullyQualifiedErrorId : RedirectionNotSupported
+>> >>
+>> >> PS C:\Users\Nicole> :type) => {  +  -  } i, enter enter formatBytes}FontFaceSetLoadEvent:FontFaceSetLoadEvent;
+>> >> At line:1 char:6
+>> >> + :type) => {  +  -  } i, enter enter formatBytes}FontFaceSetLoadEvent: ...
+>> >> +      ~
+>> >> Unexpected token ')' in expression or statement.
+>> >> At line:1 char:18
+>> >> + :type) => {  +  -  } i, enter enter formatBytes}FontFaceSetLoadEvent: ...
+>> >> +                  ~
+>> >> Missing expression after unary operator '-'.
+>> >> At line:1 char:48
+>> >> + :type) => {  +  -  } i, enter enter formatBytes}FontFaceSetLoadEvent: ...
+>> >> +                                                ~
+>> >> Unexpected token '}' in expression or statement.
+>> >>     + CategoryInfo          : ParserError: (:) [], ParentContainsErrorRecordException
+>> >>     + FullyQualifiedErrorId : UnexpectedToken
+>> >>
+>> >> PS C:\Users\Nicole> <FontFaceSetLoadEvent:love>love</FontFaceSetLoadEvent:love>
+>> >> < : The term '<' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the
+>> >> spelling of the name, or if a path was included, verify that the path is correct and try again.
+>> >> At line:1 char:1
+>> >> + <FontFaceSetLoadEvent:love>love</FontFaceSetLoadEvent:love>
+>> >> + ~
+>> >>     + CategoryInfo          : ObjectNotFound: (<:String) [], CommandNotFoundException
+>> >>     + FullyQualifiedErrorId : CommandNotFoundException
+>> >>
+>> >> PS C:\Users\Nicole> relative
+>> >> relative : The term 'relative' is not recognized as the name of a cmdlet, function, script file, or operable program.
+>> >> Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+>> >> At line:1 char:1
+>> >> + relative
+>> >> + ~~~~~~~~
+>> >>     + CategoryInfo          : ObjectNotFound: (relative:String) [], CommandNotFoundException
+>> >>     + FullyQualifiedErrorId : CommandNotFoundException
+>> >>
+>> >> PS C:\Users\Nicole>
+>> >> PS C:\Users\Nicole> }import.[No Name] [+]:/include <name className="jehovahJira" />jJ>_all other handles;
+>> >> At line:1 char:1
+>> >> + }import.[No Name] [+]:/include <name className="jehovahJira" />jJ>_al ...
+>> >> + ~
+>> >> Unexpected token '}' in expression or statement.
+>> >> At line:1 char:32
+>> >> + }import.[No Name] [+]:/include <name className="jehovahJira" />jJ>_al ...
+>> >> +                                ~
+>> >> The '<' operator is reserved for future use.
+>> >>     + CategoryInfo          : ParserError: (:) [], ParentContainsErrorRecordException
+>> >>     + FullyQualifiedErrorId : UnexpectedToken
+>> >>
+>> >> PS C:\Users\Nicole> :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::;
+>> >> ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: : The term
+>> >> ':::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::' is not recognized as the name of
+>> >> a cmdlet, function, script file, or operable program. Check the spelling of the name, or if a path was included,
+>> >> verify that the path is correct and try again.
+>> >> At line:1 char:1
+>> >> + ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: ...
+>> >> + ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+>> >>     + CategoryInfo          : ObjectNotFound: (:::::::::::::::...::::::::::::::::String) [], CommandNotFoundException
+>> >>     + FullyQualifiedErrorId : CommandNotFoundException
+>> >>
+>> >> PS C:\Users\Nicole> ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+>> >> PS C:\Users\Nicole> arive 1999 no y2k wont happend ai's too lame watch me make it my road to fame
+>> >> >> shot to the sky wish that moon was my dame but i cant find the division in my eyes i see the vision no one goes home
+>> >> >> exect me first but last i dont need to bash but im not alive just a ghost running though the route like a lord of mother fucking host'/$:~$import.$
+>> >> At line:3 char:136
+>> >> + ... nning though the route like a lord of mother fucking host'/$:~$import ...
+>> >> +                                                                ~~
+>> >> Variable reference is not valid. '$' was not followed by a valid variable name character. Consider using ${} to
+>> >> delimit the name.
+>> >>     + CategoryInfo          : ParserError: (:) [], ParentContainsErrorRecordException
+>> >>     + FullyQualifiedErrorId : InvalidVariableReference
+>> >>
+>> >> PS C:\Users\Nicole> console.debug^<jehovahJira>/
+>> >> console.debug^<jehovahJira>/ : The term 'console.debug^<jehovahJira>/' is not recognized as the name of a cmdlet,
+>> >> function, script file, or operable program. Check the spelling of the name, or if a path was included, verify that the
+>> >> path is correct and try again.
+>> >> At line:1 char:1
+>> >> + console.debug^<jehovahJira>/
+>> >> + ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+>> >>     + CategoryInfo          : ObjectNotFound: (console.debug^<jehovahJira>/:String) [], CommandNotFoundException
+>> >>     + FullyQualifiedErrorId : CommandNotFoundException
+>> >>
+>> >> PS C:\Users\Nicole> <div className="yes.class\arguement
+>> >> >> " />
+>> >> < : The term '<' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the
+>> >> spelling of the name, or if a path was included, verify that the path is correct and try again.
+>> >> At line:1 char:1
+>> >> + <div className="yes.class\arguement
+>> >> + ~
+>> >>     + CategoryInfo          : ObjectNotFound: (<:String) [], CommandNotFoundException
+>> >>     + FullyQualifiedErrorId : CommandNotFoundException
+>> >>
+>> >> PS C:\Users\Nicole> <game>
+>> >> < : The term '<' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the
+>> >> spelling of the name, or if a path was included, verify that the path is correct and try again.
+>> >> At line:1 char:1
+>> >> + <game>
+>> >> + ~
+>> >>     + CategoryInfo          : ObjectNotFound: (<:String) [], CommandNotFoundException
+>> >>     + FullyQualifiedErrorId : CommandNotFoundException
+>> >>
+>> >> PS C:\Users\Nicole> ~no error\xp~`100%`
+>> >> ~no : The term '~no' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the
+>> >> spelling of the name, or if a path was included, verify that the path is correct and try again.
+>> >> At line:1 char:1
+>> >> + ~no error\xp~`100%`
+>> >> + ~~~
+>> >>     + CategoryInfo          : ObjectNotFound: (~no:String) [], CommandNotFoundException
+>> >>     + FullyQualifiedErrorId : CommandNotFoundException
+>> >>
+>> >> PS C:\Users\Nicole> ~error 42\hp~`100%`
+>> >> ~error : The term '~error' is not recognized as the name of a cmdlet, function, script file, or operable program.
+>> >> Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+>> >> At line:1 char:1
+>> >> + ~error 42\hp~`100%`
+>> >> + ~~~~~~
+>> >>     + CategoryInfo          : ObjectNotFound: (~error:String) [], CommandNotFoundException
+>> >>     + FullyQualifiedErrorId : CommandNotFoundException
+>> >>
+>> >> PS C:\Users\Nicole> ~fix error\ap~`100%`
+>> >> ~fix : The term '~fix' is not recognized as the name of a cmdlet, function, script file, or operable program. Check
+>> >> the spelling of the name, or if a path was included, verify that the path is correct and try again.
+>> >> At line:1 char:1
+>> >> + ~fix error\ap~`100%`
+>> >> + ~~~~
+>> >>     + CategoryInfo          : ObjectNotFound: (~fix:String) [], CommandNotFoundException
+>> >>     + FullyQualifiedErrorId : CommandNotFoundException
+>> >>
+>> >> PS C:\Users\Nicole> </game></jehovahJira>\PlayButton<return null\not null>
+>> >> < : The term '<' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the
+>> >> spelling of the name, or if a path was included, verify that the path is correct and try again.
+>> >> At line:1 char:1
+>> >> + </game></jehovahJira>\PlayButton<return null\not null>
+>> >> + ~
+>> >>     + CategoryInfo          : ObjectNotFound: (<:String) [], CommandNotFoundException
+>> >>     + FullyQualifiedErrorId : CommandNotFoundException
+>> >>
+>> >> PS C:\Users\Nicole> <jJ>
+>> >> < : The term '<' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the
+>> >> spelling of the name, or if a path was included, verify that the path is correct and try again.
+>> >> At line:1 char:1
+>> >> + <jJ>
+>> >> + ~
+>> >>     + CategoryInfo          : ObjectNotFound: (<:String) [], CommandNotFoundException
+>> >>     + FullyQualifiedErrorId : CommandNotFoundException
+>> >>
+>> >> PS C:\Users\Nicole>   "hi world
+>> >> >>   this is GOD
+>> >> >>   comming to you live from my computer
+>> >> >>   this is a forum for reactions on my new game The Valley Of The Shadow Of Death"
+>> >> hi world
+>> >>   this is GOD
+>> >>   comming to you live from my computer
+>> >>   this is a forum for reactions on my new game The Valley Of The Shadow Of Death
+>> >> PS C:\Users\Nicole> </jJ>/:
+>> >> < : The term '<' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the
+>> >> spelling of the name, or if a path was included, verify that the path is correct and try again.
+>> >> At line:1 char:1
+>> >> + </jJ>/:
+>> >> + ~
+>> >>     + CategoryInfo          : ObjectNotFound: (<:String) [], CommandNotFoundException
+>> >>     + FullyQualifiedErrorId : CommandNotFoundException
+>> >>
+>> >> PS C:\Users\Nicole> import React from 'react';
+>> >> import : The term 'import' is not recognized as the name of a cmdlet, function, script file, or operable program.
+>> >> Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+>> >> At line:1 char:1
+>> >> + import React from 'react';
+>> >> + ~~~~~~
+>> >>     + CategoryInfo          : ObjectNotFound: (import:String) [], CommandNotFoundException
+>> >>     + FullyQualifiedErrorId : CommandNotFoundException
+>> >>
+>> >> PS C:\Users\Nicole> import { defineMessages, useIntl } from 'react-intl';
+>> >> At line:1 char:24
+>> >> + import { defineMessages, useIntl } from 'react-intl';
+>> >> +                        ~
+>> >> Missing argument in parameter list.
+>> >>     + CategoryInfo          : ParserError: (:) [], ParentContainsErrorRecordException
+>> >>     + FullyQualifiedErrorId : MissingArgument
+>> >>
+>> >> PS C:\Users\Nicole> import useSWR from 'swr';
+>> >> import : The term 'import' is not recognized as the name of a cmdlet, function, script file, or operable program.
+>> >> Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+>> >> At line:1 char:1
+>> >> + import useSWR from 'swr';
+>> >> + ~~~~~~
+>> >>     + CategoryInfo          : ObjectNotFound: (import:String) [], CommandNotFoundException
+>> >>     + FullyQualifiedErrorId : CommandNotFoundException
+>> >>
+>> >> PS C:\Users\Nicole> import { formatBytes } from '../../utils/numberHelpers'
+>> >> import : The term 'import' is not recognized as the name of a cmdlet, function, script file, or operable program.
+>> >> Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+>> >> At line:1 char:1
+>> >> + import { formatBytes } from '../../utils/numberHelpers'
+>> >> + ~~~~~~
+>> >>     + CategoryInfo          : ObjectNotFound: (import:String) [], CommandNotFoundException
+>> >>     + FullyQualifiedErrorId : CommandNotFoundException
+>> >>
+>> >> PS C:\Users\Nicole> import Alert from '../Common/Alert';
+>> >> import : The term 'import' is not recognized as the name of a cmdlet, function, script file, or operable program.
+>> >> Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+>> >> At line:1 char:1
+>> >> + import Alert from '../Common/Alert';
+>> >> + ~~~~~~
+>> >>     + CategoryInfo          : ObjectNotFound: (import:String) [], CommandNotFoundException
+>> >>     + FullyQualifiedErrorId : CommandNotFoundException
+>> >>
+>> >> PS C:\Users\Nicole> import PlayButton from '../Common/PlayButton'
+>> >> import : The term 'import' is not recognized as the name of a cmdlet, function, script file, or operable program.
+>> >> Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+>> >> At line:1 char:1
+>> >> + import PlayButton from '../Common/PlayButton'
+>> >> + ~~~~~~
+>> >>     + CategoryInfo          : ObjectNotFound: (import:String) [], CommandNotFoundException
+>> >>     + FullyQualifiedErrorId : CommandNotFoundException
+>> >>
+>> >> PS C:\Users\Nicole> import BulkEditModal from '../UserList/BulkEditModal'
+>> >> import : The term 'import' is not recognized as the name of a cmdlet, function, script file, or operable program.
+>> >> Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+>> >> At line:1 char:1
+>> >> + import BulkEditModal from '../UserList/BulkEditModal'
+>> >> + ~~~~~~
+>> >>     + CategoryInfo          : ObjectNotFound: (import:String) [], CommandNotFoundException
+>> >>     + FullyQualifiedErrorId : CommandNotFoundException
+>> >>
+>> >> PS C:\Users\Nicole>
+>> >> PS C:\Users\Nicole> const messages = defineMessages({
+>> >> >>   dockerVolumeMissingDescription:
+>> >> >>     'The <code>{appDataPath}</code> volume mount was not configured properly. All data will be cleared when the container is stopped or restarted.',
+>> >> >> });
+>> >> At line:3 char:149
+>> >> + ... ll data will be cleared when the container is stopped or restarted.',
+>> >> +                                                                          ~
+>> >> Missing expression after ','.
+>> >>     + CategoryInfo          : ParserError: (:) [], ParentContainsErrorRecordException
+>> >>     + FullyQualifiedErrorId : MissingExpressionAfterToken
+>> >>
+>> >> PS C:\Users\Nicole>
+>> >> PS C:\Users\Nicole> const AppDataWarning: React.FC = () => {~}.jehovahJira
+>> >> At line:1 char:35
+>> >> + const AppDataWarning: React.FC = () => {~}.jehovahJira
+>> >> +                                   ~
+>> >> An expression was expected after '('.
+>> >>     + CategoryInfo          : ParserError: (:) [], ParentContainsErrorRecordException
+>> >>     + FullyQualifiedErrorId : ExpectedExpression
+>> >>
+>> >> PS C:\Users\Nicole>   const intl = useIntl();
+>> >> At line:1 char:24
+>> >> +   const intl = useIntl();
+>> >> +                        ~
+>> >> An expression was expected after '('.
+>> >>     + CategoryInfo          : ParserError: (:) [], ParentContainsErrorRecordException
+>> >>     + FullyQualifiedErrorId : ExpectedExpression
+>> >>
+>> >> PS C:\Users\Nicole>   const { data, error } = useSWR<{ appData: boolean; appDataPath: string }>(
+>> >> >>     '/api/v1/status/appdata'
+>> >> >>   );
+>> >> At line:1 char:15
+>> >> +   const { data, error } = useSWR<{ appData: boolean; appDataPath: str ...
+>> >> +               ~
+>> >> The Data section is missing its statement block.
+>> >> At line:1 char:16
+>> >> +   const { data, error } = useSWR<{ appData: boolean; appDataPath: str ...
+>> >> +                ~
+>> >> Missing expression after unary operator ','.
+>> >> At line:1 char:17
+>> >> +   const { data, error } = useSWR<{ appData: boolean; appDataPath: str ...
+>> >> +                 ~~~~~
+>> >> Unexpected token 'error' in expression or statement.
+>> >>     + CategoryInfo          : ParserError: (:) [], ParentContainsErrorRecordException
+>> >>     + FullyQualifiedErrorId : MissingStatementBlockForDataSection
+>> >>
+>> >> PS C:\Users\Nicole>
+>> >> PS C:\Users\Nicole>   if (!data && !error) {
+>> >> >>     return null;
+>> >> >>   }
+>> >> At line:1 char:13
+>> >> +   if (!data && !error) {
+>> >> +             ~~
+>> >> The token '&&' is not a valid statement separator in this version.
+>> >>     + CategoryInfo          : ParserError: (:) [], ParentContainsErrorRecordException
+>> >>     + FullyQualifiedErrorId : InvalidEndOfLine
+>> >>
+>> >> PS C:\Users\Nicole>
+>> >> PS C:\Users\Nicole>   if (!data) {
+>> >> >>     return null;
+>> >> >>   }
+>> >> !data : The term '!data' is not recognized as the name of a cmdlet, function, script file, or operable program. Check
+>> >> the spelling of the name, or if a path was included, verify that the path is correct and try again.
+>> >> At line:1 char:7
+>> >> +   if (!data) {
+>> >> +       ~~~~~
+>> >>     + CategoryInfo          : ObjectNotFound: (!data:String) [], CommandNotFoundException
+>> >>     + FullyQualifiedErrorId : CommandNotFoundException
+>> >>
+>> >> PS C:\Users\Nicole>
+>> >> PS C:\Users\Nicole>   return (
+>> >> >>     <>
+>> >> >>       {!data.appData && ( || ) }run  _PR9M
+>> >> At line:2 char:7
+>> >> +     <>
+>> >> +       ~
+>> >> Missing file specification after redirection operator.
+>> >> At line:2 char:7
+>> >> +     <>
+>> >> +       ~
+>> >> Missing closing ')' in expression.
+>> >> At line:3 char:7
+>> >> +       {!data.appData && ( || ) }run  _PR9M
+>> >> +       ~
+>> >> Unexpected token '{' in expression or statement.
+>> >> At line:3 char:22
+>> >> +       {!data.appData && ( || ) }run  _PR9M
+>> >> +                      ~~
+>> >> The token '&&' is not a valid statement separator in this version.
+>> >> At line:3 char:27
+>> >> +       {!data.appData && ( || ) }run  _PR9M
+>> >> +                           ~~
+>> >> The token '||' is not a valid statement separator in this version.
+>> >> At line:3 char:26
+>> >> +       {!data.appData && ( || ) }run  _PR9M
+>> >> +                          ~
+>> >> An expression was expected after '('.
+>> >> At line:3 char:25
+>> >> +       {!data.appData && ( || ) }run  _PR9M
+>> >> +                         ~~~~~~
+>> >> Expressions are only allowed as the first element of a pipeline.
+>> >> At line:3 char:33
+>> >> +       {!data.appData && ( || ) }run  _PR9M
+>> >> +                                 ~~~
+>> >> Unexpected token 'run' in expression or statement.
+>> >>     + CategoryInfo          : ParserError: (:) [], ParentContainsErrorRecordException
+>> >>     + FullyQualifiedErrorId : MissingFileSpecification
+>> >>
+>> >> PS C:\Users\Nicole>         <Alert
+>> >> < : The term '<' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the
+>> >> spelling of the name, or if a path was included, verify that the path is correct and try again.
+>> >> At line:1 char:9
+>> >> +         <Alert
+>> >> +         ~
+>> >>     + CategoryInfo          : ObjectNotFound: (<:String) [], CommandNotFoundException
+>> >>     + FullyQualifiedErrorId : CommandNotFoundException
+>> >>
+>> >> PS C:\Users\Nicole> |||||          title={intl.formatMessage(messages.dockerVolumeMissingDescription, {PR9M<TV9TS9D>_}
+>> >> >>   $
+>> >> >>   $$$
+>> >> >>   $$$
+>> >> >>   $$$
+>> >> >>   $
+>> >> >>   .:/yes/:"
+>> >> >> ||||||            code: function code(msg) { _== $0 ==_ };no error
+>> >> >> async (this parameters.type and <function className="syntax" />yes
+>> >> >> :type) => {
+>> >> >> <>,<,>
+>> >> >>   |||||||DEFINITION OF
+>> >> >>   return <code className="bg-opacity-50">{msg}</code>;
+>> >> >>
+>> >> >> }||||||||            },
+>> >> >> |||||||            appDataPath: data.appDataPath,
+>> >> >> ||||||          })}+|-
+>> >> >> |||||        />://:
+>> >> >>       )}fix error.://:
+>> >> >>     </>no error
+>> >> >>   );no RTCPeerConnectionIceErrorEvent
+>> >> >> };error 42
+>> >> >> [No Name] [+]:/Yhwh3399/:
+>> >> >> export default AppDataWarning;
+>> >> >> not null;
+>> >> >> FIX};
+>> >> >> {null.static _void{argument.arg\]{[{[yes]}.~>_+-}game in + or - format}\run <sequenceEXPECT className="NULL">YES
+>> >> >> NOT IS NULL IS NOT NULL.://:.~
+>> >> >> </sequenceEXPECT>~`1`~root
+>> >> >> ~`2`~navel
+>> >> >> ~`3`~solar plexus
+>> >> >> ~`4`~heart
+>> >> >> ~`5`~throat
+>> >> >> ~`6`~mind
+>> >> >> ~`7`~crown
+>> >> >> Infinity.
+>> >> >> return BulkEditModal.possibility _null
+>> >> >>  .relative <>
+>> >> >> init. _allENCODING.encrypt
+>> >> >> .gvim+-
+>> >> >> async ( is <div className="relative"></div>
+>> >> >> class type== L0RD ==>_+-
+>> >> >> :type) => {  +  -  } i, enter enter formatBytes}FontFaceSetLoadEvent:FontFaceSetLoadEvent;
+>> >> >> <FontFaceSetLoadEvent:love>love</FontFaceSetLoadEvent:love>
+>> >> >>     relative
+>> >> >>
+>> >> >> }import.[No Name] [+]:/include <name className="jehovahJira" />jJ>_all other handles;
+>> >> >> :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::;
+>> >> >> ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+>> >> >> arive 1999 no y2k wont happend ai's too lame watch me make it my road to fame
+>> >> >> shot to the sky wish that moon was my dame but i cant find the division in my eyes i see the vision no one goes home
+>> >> >> exect me first but last i dont need to bash but im not alive just a ghost running though the route like a lord of mother fucking host'/$:~$import.$
+>> >> >> console.debug^<jehovahJira>/
+>> >> >> <div className="yes.class\arguement
+>> >> >> " />
+>> >> >> <game>
+>> >> >> ~no error\xp~`100%`
+>> >> >> ~error 42\hp~`100%`
+>> >> >> ~fix error\ap~`100%`
+>> >> >> </game></jehovahJira>\PlayButton<return null\not null>
+>> >> >> <jJ>
+>> >> >>   "hi world
+>> >> >>   this is GOD
+>> >> >>   comming to you live from my computer
+>> >> >>   this is a forum for reactions on my new game The Valley Of The Shadow Of Death"
+>> >> >> </jJ>/:
+>> >> >> import React from 'react';
+>> >> >> import { defineMessages, useIntl } from 'react-intl';
+>> >> >> import useSWR from 'swr';
+>> >> >> import { formatBytes } from '../../utils/numberHelpers'
+>> >> >> import Alert from '../Common/Alert';
+>> >> >> import PlayButton from '../Common/PlayButton'
+>> >> >> import BulkEditModal from '../UserList/BulkEditModal'
+>> >> >>
+>> >> >> const messages = defineMessages({
+>> >> >>   dockerVolumeMissingDescription:
+>> >> >>     'The <code>{appDataPath}</code> volume mount was not configured properly. All data will be cleared when the container is stopped or restarted.',
+>> >> >> });
+>> >> >>
+>> >> >> const AppDataWarning: React.FC = () => {~}.jehovahJira
+>> >> >>   const intl = useIntl();
+>> >> >>   const { data, error } = useSWR<{ appData: boolean; appDataPath: string }>(
+>> >> >>     '/api/v1/status/appdata'
+>> >> >>   );
+>> >> >>
+>> >> >>   if (!data && !error) {
+>> >> >>     return null;
+>> >> >>   }
+>> >> >>
+>> >> >>   if (!data) {
+>> >> >>     return null;
+>> >> >>   }
+>> >> >>
+>> >> >>   return (
+>> >> >>     <>
+>> >> >>       {!data.appData && ( || ) }run  _PR9M
+>> >> >>         <Alert
+>> >> >> |||||          title={intl.formatMessage(messages.dockerVolumeMissingDescription, {PR9M<TV9TS9D>_}
+>> >> >>   $
+>> >> >>   $$$
+>> >> >>   $$$
+>> >> >>   $$$
+>> >> >>   $
+>> >> >>   .:/yes/:"
+>> >> >> ||||||            code: function code(msg) { _== $0 ==_ };no error
+>> >> >> async (this parameters.type and <function className="syntax" />yes
+>> >> >> :type) => {
+>> >> >>     <>,<,>
+>> >> >>   |||||||DEFINITION OF
+>> >> >>   return <code className="bg-opacity-50">{msg}</code>;
+>> >> >>
+>> >> >> }||||||||            },
+>> >> >> |||||||            appDataPath: data.appDataPath,
+>> >> >> ||||||          })}+|-
+>> >> >> |||||        />://:
+>> >> >>       )}fix error.://:
+>> >> >>     </>no error
+>> >> >>   );no RTCPeerConnectionIceErrorEvent
+>> >> >> };error 42
+>> >> >> [No Name] [+]:/Yhwh3399/:
+>> >> >> export default AppDataWarning;
+>> >> >> not null;
+>> >> >> FIX};
+>> >> >> {null.static _void{argument.arg\]{[{[yes]}.~>_+-}game in + or - format}\run <sequenceEXPECT className="NULL">YES
+>> >> >> NOT IS NULL IS NOT NULL.://:.~
+>> >> >> </sequenceEXPECT>
+>> >> >>
+>> >> >>
+>> >> >>
+>> >> >>
+>> >> >>
+>> >> >>
+>> >> >>
+>> >> >>
+>> >> >>
+>> >> >>
+>> >> >>
+>> >> >>
+>> >> >>
+>> >> >>
+>> >> >>
+>> >> >>
+>> >> >>
+>> >> >>
+>> >> >>
+>> >> >>
+>> >> >>
+>> >> >>
+>> >> >>
+>> >> >>
+>> >> >>
+>> >> >> enter enter function
+>> >> >> account
+>> >> >> yes
+>> >> >> ReactReactReactReactReactReactReactReactReactReactReactReactReact
+>> >> >>
+>> >> >>powershell
+>> >> emulate
+>> >> game
+>> >> game
+>> >>
+>> >>
+>> >>
+>> >>
+>> >>
+>> >>
+>> >>
+>> >>
+>> >>
+>> >>
+>> >>
+>> >>
+>> >>
+>> >>
+>> >>
+>> >>
+>> >>
+>> >>
+>> >>
+>> >>
+>> >>
+>> >>
+>> >>
+>> >>
+>> >>
+>> >>
+>> >>
+>> >>
+>> >>
+>> >>
+>> >>
+>> >>
+>> >>
+>> >>
+>> >>
+>> >>
+>> >>
+>> >>
+>> >>
+>> >>
+>> >>
+>> >>
+>> >>
+>> >>
+>> >>
+>> >>
+>> >>
+>> >>
+>> >>
+>> >>
+>> >>
+>> >>
+>> >>
+>> >>
+>> >>
+>> >>
+>> >>
+>> >>
+>> >>
+>> >>
+>> >>
+>> >>
+>> >>
+>> >>
+>> >>
+>> >>
+>> >>
+>> >>
+>> >>
+>> >>
+>> >>
+>> >>
+>> >>
+>> >>
+>> >>
+>> >>
+>> >>
+>> >>
+>> >>
+>> >>
+>> >>
+>> >>
+>> >>
+>> >>
+>> >>
+>> >>
+>> >>
+>> >>
+>> >>
+>> >>
+>> >>
+>> >>
+>> >>
+>> >>
+>> >>
+>> >>
+>> >>
+>> >>
+>> >>
+>> >>
+>> >>
+>> >>
+>> >>
+>> >>
+>> >>
+>> >>
+>> >>
+>> >>
+>> >>
+>> >>
+>> >>
+>> >>
+>> >>
+>> >>
+>> >>
+>> >>
+>> >>
+>> >>
+>> >>
+>> >> ReactReact
+>> >> React
+>> >> React
+>> >> React
+>> >> React
+>> >> ReactReact
+>> >>
+>> >>
+>> >>
+>> >>
+>> >>
+>> >>
+>> >>
+>> >>
+>> >> React^C
+>> PS C:\Users\Nicole> ^C
+>> PS C:\Users\Nicole> @@@
+>> At line:1 char:1
+>> + @@@
+>> + ~
+>> Unrecognized token in source text.
+>> At line:1 char:2
+>> + @@@
+>> +  ~
+>> Unrecognized token in source text.
+>> At line:1 char:3
+>> + @@@
+>> +   ~
+>> Unrecognized token in source text.
+>>     + CategoryInfo          : ParserError: (:) [], ParentContainsErrorRecordException
+>>     + FullyQualifiedErrorId : UnrecognizedToken
+>>
+>> PS C:\Users\Nicole> ^C
+>> PS C:\Users\Nicole> ^C
+>> PS C:\Users\Nicole> ^C
+>> PS C:\Users\Nicole> ^^
+>> ^^ : The term '^^' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the
+>> spelling of the name, or if a path was included, verify that the path is correct and try again.
+>> At line:1 char:1
+>> + ^^
+>> + ~~
+>>     + CategoryInfo          : ObjectNotFound: (^^:String) [], CommandNotFoundException
+>>     + FullyQualifiedErrorId : CommandNotFoundException
+>>
+>> PS C:\Users\Nicole> c:"//:>
+>> >>  dsadw da we
+>> >> sdADSAD
+>> >> aw dASD
+>> >> Dsa
+>> >> d
+>> >> ds
+>> >> d
+>> >> ad
+>> >>  s
+>> >> ad
+>> >> asd
+>> >> d
+>> >> dsd
+>> >> d
+>> >> s
+>> >> asd
+>> >>  as
+>> >> D
+>> >> gf
+>> >> sg
+>> >> sdgf
+>> >> sd
+>> >>
+>> >> das
+>> >> d
+>> >> sd
+>> >> sd
+>> >> ds
+>> >> dfsdfgf
+>> >> sddfs
+>> >>
+>> >> ga
+>> >> fs
+>> >> fs
+>> >> df
+>> >> dsf
+>> >> fd
+>> >> sf
+>> >> d
+>> >> fds
+>> >> fdf
+>> >> df
+>> >> sd
+>> >> f
+>> >> dfds
+>> >> asdxadddw
+>> >> sd
+>> >> aw
+>> >> da
+>> >> dwad
+>> >> asd
+>> >> wa
+>> >> d
+>> >> aWEd
+>> >> a
+>> >> d
+>> >>
+>> >> sad
+>> >>  d
+>> >> a s
+>> >> d
+>> >>
+>> >> @@dsa wdasad dawddsdwawe dwqewe qeqweqw q weqweedsa wdasdadwdqw eqwedawe qdawdwqeasdwqq eqeewqweqwe wesda<>
+>> >> <>
+>> >> >>>
+>> >>
+>> >>
+>>
+>> https://github.com/lzybkr/PSReadLine/issues/newhttps://github.com/lzybkr/PSReadLine/issues/newhttps://github.com/lzybkr/PSReadLine/issues/newhttps://github.com/lzybkr/PSReadLine/issues/newhttps://github.com/lzybkr/PSReadLine/issues/newhttps://github.com/lzybkr/PSReadLine/issues/newhttps://github.com/lzybkr/PSReadLine/issues/newconsole.pluging  https://github.com/lzybkr/PSReadLine/issues/new
+>> https://github.com/lzybkr/PSReadLine/issues/new
+>>
+>>
+>>
+>>
+>>
+>>
+>>
+>>
+>> ://:
+>> <><,.
+>> ://:
+>> https://github.com/lzybkr/PSReadLine/issues/newhttps://github.com/lzybkr/PSReadLine/issues/newhttps://github.com/lzybkr/PSReadLine/issues/newhttps://github.com/lzybkr/PSReadLine/issues/newhttps://github.com/lzybkr/PSReadLine/issues/newhttps://github.com/lzybkr/PSReadLine/issues/newhttps://github.com/lzybkr/PSReadLine/issues/newconsole.pluging  https://github.com/lzybkr/PSReadLine/issues/newasdfghjklhhhhasdfgh[furute use
+>> voudhub.com/lzybkr/PSReadLine/issues/newasdfghjklhhhhasdfgh[furutehub.com/lzybkr/PSReadLine/issues/newasdfghjklhhhhasdfgh[furutehub.com/lzybkr/PSReadLine/issues/newasdfghjklhhhhasdfgh[furutevoid
+>> sad wdasda
+Oops, something went wrong.  Please report this bug with the details below.
+Report on GitHub: https://github.com/lzybkr/PSReadLine/issues/new
+-----------------------------------------------------------------------
+Last 200 Keys:
+ k r / P S R e a d L i n e / i s s u e s / n e w a s d f g h j k l h h h h a s d f g h [ f u r u t e h u b . c o m / l z y b k r / P S R e a d L i n e / i s s u e s / n e w a s d f g h j k l h h h h a s d f g h [ f u r u t e h u b . c o m / l z y b k r / P S R e a d L i n e / i s s u e s / n e w a s d f g h j k l h h h h a s d f g h [ f u r u t e v o i d Enter
+ s a d Space w d a s d a Space w d a d s d a d a w
+
+Exception:
+System.ArgumentOutOfRangeException: The value must be greater than or equal to zero and less than the console's buffer size in that dimension.
+Parameter name: top
+Actual value was -160.
+   at System.Console.SetCursorPosition(Int32 left, Int32 top)
+   at Microsoft.PowerShell.PSConsoleReadLine.ReallyRender(RenderData renderData, String defaultColor)
+   at Microsoft.PowerShell.PSConsoleReadLine.ForceRender()
+   at Microsoft.PowerShell.PSConsoleReadLine.Insert(Char c)
+   at Microsoft.PowerShell.PSConsoleReadLine.SelfInsert(Nullable`1 key, Object arg)
+   at Microsoft.PowerShell.PSConsoleReadLine.ProcessOneKey(ConsoleKeyInfo key, Dictionary`2 dispatchTable, Boolean ignoreIfNoAction, Object arg)
+   at Microsoft.PowerShell.PSConsoleReadLine.InputLoop()
+   at Microsoft.PowerShell.PSConsoleReadLine.ReadLine(Runspace runspace, EngineIntrinsics engineIntrinsics)
+-----------------------------------------------------------------------
+PS C:\Users\Nicole>                                                                                                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+       %%APPDATA%%{this is application data}~.}~.~.}.{</html./game
+>
+this is ~.:/0/:.~ zero{
+this is void:
+
+:})>\:/~/::/0/:.^
+<html>
+
+
+
+
+
+all scripts.static _void:/@@@/:*3 in vertical fashion
+                        :/@@@/:
+                        :/@@@/:
+_____________________________;:>_~.
+\    ://:\-\      /-/000<jJ/>\
+      ://:\ \    / / 0 0   ||\\
+       ://:\ \  / /  000 ! ||//
+        ://:\ \/ /         \</
+         ://:\__/
