@@ -12,7 +12,7 @@
 - `f{character}` - Move forward to character (in the line)
 - `;` - Next occurrence
 - `,` - Previous occurrence
-- `t{character}` - Move to just in front of the character in line
+- `t{character}` - Move to just in front of the character in the line
 
 ## Move Horizontally (Extreme)
 - `0` - First character of line
@@ -52,7 +52,7 @@
 - `D` - Delete from cursor to the end of line
 - `C` - Change from cursor to the end of line
 - `Y` - Yank from cursor to the end of line
-- `P` - Paste from cursor to the end of line
+- `P` - Paste before cursor
 
 ## Repeat
 - `.` - Repeat last change
